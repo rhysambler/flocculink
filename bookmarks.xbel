@@ -639,6 +639,30 @@
       <bookmark href="data:text/html, &lt;html contenteditable&gt;" id="97">
         <title>Pad</title>
       </bookmark>
+      <bookmark href="https://www.whatsmybrowser.org/" id="95">
+        <title>What browser am I using?</title>
+      </bookmark>
+      <bookmark href="chrome://chrome-urls/" id="127">
+        <title>Chrome URLs</title>
+      </bookmark>
+      <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="69">
+        <title>The Kindness of Strangers - Schneier on Security</title>
+      </bookmark>
+      <bookmark href="https://editsvgcode.com/" id="23">
+        <title>Online SVG Code Editor</title>
+      </bookmark>
+      <bookmark href="https://jstrieb.github.io/link-lock/create/" id="71">
+        <title>Link Lock - Password-protect links</title>
+      </bookmark>
+      <bookmark href="https://yopass.se/" id="72">
+        <title>Yopass: Share Secrets Securely</title>
+      </bookmark>
+      <bookmark href="https://stirling.com/app" id="76">
+        <title>Stirling PDF</title>
+      </bookmark>
+      <bookmark href="https://app.rallly.co/" id="119">
+        <title>Rallly</title>
+      </bookmark>
     </folder>
   </folder>
   <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
@@ -728,18 +752,6 @@
   <bookmark href="https://sourceforge.net/projects/bulk-crap-uninstaller/" id="22">
     <title>Bulk Crap Uninstaller download | SourceForge.net</title>
   </bookmark>
-  <bookmark href="https://editsvgcode.com/" id="23">
-    <title>Online SVG Code Editor</title>
-  </bookmark>
-  <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="69">
-    <title>The Kindness of Strangers - Schneier on Security</title>
-  </bookmark>
-  <bookmark href="https://jstrieb.github.io/link-lock/create/" id="71">
-    <title>Link Lock - Password-protect links</title>
-  </bookmark>
-  <bookmark href="https://yopass.se/" id="72">
-    <title>Yopass: Share Secrets Securely</title>
-  </bookmark>
   <bookmark href="https://libraryofbabel.info/search.cgi" id="73">
     <title>Library of babel</title>
   </bookmark>
@@ -748,12 +760,6 @@
   </bookmark>
   <bookmark href="https://www.themoviedb.org/" id="75">
     <title>The Movie Database (TMDB)</title>
-  </bookmark>
-  <bookmark href="https://stirling.com/app" id="76">
-    <title>Stirling PDF</title>
-  </bookmark>
-  <bookmark href="https://app.rallly.co/" id="119">
-    <title>Rallly</title>
   </bookmark>
   <bookmark href="https://fuel.rfs.nsw.gov.au/course/view.php?id=202" id="121">
     <title>Course: Firefighter 1</title>
@@ -787,12 +793,6 @@
   </bookmark>
   <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="128">
     <title>The Kindness of Strangers - Schneier on Security</title>
-  </bookmark>
-  <bookmark href="chrome://chrome-urls/" id="127">
-    <title>Chrome URLs</title>
-  </bookmark>
-  <bookmark href="https://www.whatsmybrowser.org/" id="95">
-    <title>What browser am I using?</title>
   </bookmark>
   <bookmark href="https://unsplash.com/" id="99">
     <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
