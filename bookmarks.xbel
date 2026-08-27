@@ -718,6 +718,9 @@
     <bookmark href="chrome://history/" id="175">
       <title>History</title>
     </bookmark>
+    <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="128">
+      <title>The Kindness of Strangers - Schneier on Security</title>
+    </bookmark>
   </folder>
   <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
     <title>CompTIA® Security+</title>
@@ -796,9 +799,6 @@
   </bookmark>
   <bookmark href="https://www.si.edu/search/images?edan_fq%5B0%5D=media_usage%3ACC0" id="120">
     <title>www.si.edu</title>
-  </bookmark>
-  <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="128">
-    <title>The Kindness of Strangers - Schneier on Security</title>
   </bookmark>
 </folder>
 <folder id="3">
