@@ -745,6 +745,12 @@
     <bookmark href="https://heartgarden.com.au/" id="21">
       <title>Heart Garden Online Plant Nursery</title>
     </bookmark>
+    <bookmark href="https://usernamegenerator.com/" id="17">
+      <title>AI Username Generator</title>
+    </bookmark>
+    <bookmark href="https://wallet.uphold.com/authorize/6d8d9473ed20be627f71ed46e207f40c004c5b1a?scope=cards:read%20cards:write%20user:read%20transactions:read%20transactions:transfer:application%20transactions:transfer:others&amp;intention=login&amp;state=0BCF9965000197D22734FF69B370661CE0C81666E74B6C59BF66FA4BA47253FF" id="15">
+      <title>Wallet</title>
+    </bookmark>
   </folder>
   <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
     <title>CompTIA® Security+</title>
@@ -788,17 +794,8 @@
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
-  <bookmark href="https://wallet.uphold.com/authorize/6d8d9473ed20be627f71ed46e207f40c004c5b1a?scope=cards:read%20cards:write%20user:read%20transactions:read%20transactions:transfer:application%20transactions:transfer:others&amp;intention=login&amp;state=0BCF9965000197D22734FF69B370661CE0C81666E74B6C59BF66FA4BA47253FF" id="15">
-    <title>Wallet</title>
-  </bookmark>
-  <bookmark href="https://usernamegenerator.com/" id="17">
-    <title>AI Username Generator</title>
-  </bookmark>
   <bookmark href="https://fuel.rfs.nsw.gov.au/course/view.php?id=202" id="121">
     <title>Course: Firefighter 1</title>
-  </bookmark>
-  <bookmark href="chrome://newtab/" id="279">
-    <title>New Tab</title>
   </bookmark>
 </folder>
 <folder id="3">
