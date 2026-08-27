@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :275: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+  <bookmark href="chrome://bookmarks/" id="4">
+    <title></title>
+  </bookmark>
+  <folder id="5">
+    <title>G</title>
+    <bookmark href="https://mail.google.com/mail/u/rambler78@gmail.com/" id="31">
+      <title>rambler78@gmail.com - Gmail</title>
+    </bookmark>
+    <bookmark href="https://notebooklm.google.com/?icid=home_maincta&amp;original_referer=https:%2F%2Fnotebooklm.google%23" id="32">
+      <title>NotebookLM</title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/drive/home" id="33">
+      <title>Home - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://photos.google.com/?authuser=rambler78@gmail.com" id="34">
+      <title>Photos - Google Photos</title>
+    </bookmark>
+    <bookmark href="https://contacts.google.com/" id="35">
+      <title>Google Contacts</title>
+    </bookmark>
+    <bookmark href="https://calendar.google.com/calendar/u/0/r?pli=1" id="36">
+      <title>Google Calendar - Schedule starting Friday, 12 September 2025</title>
+    </bookmark>
+    <bookmark href="https://myaccount.google.com/?pli=1" id="37">
+      <title>Google Account</title>
+    </bookmark>
+    <bookmark href="https://meet.google.com/landing?hs=197&amp;authuser=0" id="38">
+      <title>Google Meet</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/u/0/?pli=1" id="39">
+      <title>Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/document/u/0/" id="40">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/presentation/u/0/" id="77">
+      <title>Google Slides</title>
+    </bookmark>
+    <bookmark href="https://tasks.google.com/tasks/?utm_source=OGB&amp;utm_medium=app" id="78">
+      <title>Tasks</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/forms/u/0/" id="79">
+      <title>Google Forms</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/" id="80">
+      <title>YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/interests/saved?authuser=0" id="81">
+      <title>Saved</title>
+    </bookmark>
+    <bookmark href="https://chromewebstore.google.com/?pli=1" id="82">
+      <title>Chrome Web Store</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1bU_dY6L2KU7T0PMMsuxnRcPVhbqRp1qdwILWNLA4hKo/edit?pli=1&amp;gid=957849919#gid=957849919" id="83">
+      <title>Arithmetic challenges</title>
+    </bookmark>
+    <bookmark href="https://accounts.google.com/ServiceLogin?service=mail&amp;passive=true&amp;rambler78@gmail.com&amp;continue=https://mail.google.com/mail/u/rambler78@gmail.com/" id="84">
+      <title>rambler78@gmail.com - Gmail</title>
+    </bookmark>
+    <bookmark href="https://photos.google.com/?pli=1" id="85">
+      <title>Photos - Google Photos</title>
+    </bookmark>
+  </folder>
+  <folder id="6">
+    <title>M</title>
+    <bookmark href="https://onenote.cloud.microsoft/" id="41">
+      <title>OneNorte</title>
+    </bookmark>
+    <bookmark href="https://onedrive.live.com/?id=root&amp;cid=6CC4F86610EBBDE2" id="42">
+      <title>OneDrive</title>
+    </bookmark>
+    <bookmark href="https://outlook.live.com/mail/0/" id="43">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://mydefender.microsoft.com/?refSource=office.com&amp;refPage=apps" id="44">
+      <title>Microsoft Defender</title>
+    </bookmark>
+    <bookmark href="https://account.microsoft.com/family/home" id="45">
+      <title>Microsoft Family Safety</title>
+    </bookmark>
+    <bookmark href="https://teams.live.com/v2/" id="46">
+      <title>(2) Chat | test for trustees | Microsoft Teams</title>
+    </bookmark>
+    <bookmark href="https://word.cloud.microsoft/?wdOrigin=AMC.SHELL%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN" id="47">
+      <title>Word for the Web - Microsoft 365</title>
+    </bookmark>
+    <bookmark href="https://excel.cloud.microsoft/?wdOrigin=AMC.SHELL%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN" id="48">
+      <title>Excel for the Web - Microsoft 365</title>
+    </bookmark>
+    <bookmark href="https://powerpoint.cloud.microsoft/en-au/?wdOrigin=AMC.SHELL%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN" id="49">
+      <title>PowerPoint for the Web - Microsoft 365</title>
+    </bookmark>
+    <bookmark href="https://outlook.live.com/calendar/0/view/month" id="50">
+      <title>Calendar - Rhys Ambler - Outlook</title>
+    </bookmark>
+    <bookmark href="https://outlook.live.com/people/0/?ui=en-US&amp;rs=GB&amp;auth=1&amp;login_hint=M%24EjV4nON40_F4e9ujX_ceMQqJF2VUFusl5iblpBY55JeW5OTnZ-sl5-dKdH341PsfBBgBNOgYkQ" id="86">
+      <title>People - Rhys Ambler - Outlook</title>
+    </bookmark>
+    <bookmark href="https://to-do.live.com/tasks" id="87">
+      <title>My Day - To Do</title>
+    </bookmark>
+    <bookmark href="https://app.clipchamp.com/login/microsoft?utm_source=m365&amp;utm_medium=office&amp;utm_campaign=appswaffle" id="88">
+      <title>Sign in | Clipchamp</title>
+    </bookmark>
+    <bookmark href="https://designer.microsoft.com/" id="89">
+      <title>Microsoft Designer - Stunning designs in a flash</title>
+    </bookmark>
+    <bookmark href="https://m365.cloud.microsoft/chat/?auth=1&amp;origindomain=Office" id="90">
+      <title>Chat | M365 Copilot</title>
+    </bookmark>
+    <bookmark href="https://forms.cloud.microsoft/Pages/DesignPageV2.aspx" id="91">
+      <title>Microsoft Forms</title>
+    </bookmark>
+    <bookmark href="https://lists.live.com/?ocid=OfficeConsumerGallery" id="92">
+      <title>Lists</title>
+    </bookmark>
+    <bookmark href="https://sway.cloud.microsoft/my" id="93">
+      <title>Microsoft Sway – My Sways</title>
+    </bookmark>
+  </folder>
+  <folder id="7">
+    <title>A</title>
+    <bookmark href="https://mail.google.com/a/ambler.id.au/mail/u/0/?pli=1#all" id="51">
+      <title>Ambler Family - Mail</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/calendar/hosted/ambler.id.au" id="52">
+      <title>Ambler Family – Calendar</title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/a/ambler.id.au" id="53">
+      <title>Ambler Family - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://groups.google.com/a/ambler.id.au" id="54">
+      <title>Ambler Family - Groups</title>
+    </bookmark>
+    <bookmark href="https://mail.google.com/a/ambler.id.au" id="55">
+      <title>Ambler Family - Mail</title>
+    </bookmark>
+  </folder>
+  <bookmark href="http://192.168.34.155/fog/management/?node=schema" id="8">
+    <title>FOG</title>
+  </bookmark>
+  <bookmark href="https://discreet-centipede.pikapod.net/login" id="9">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://account.proton.me/mail" id="10">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://quickconnect.to/QUADTERRABITE" id="11">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://192-168-34-125.quadterrabite.direct.quickconnect.to/wordpress/wp-login.php" id="12">
+    <title>WP</title>
+  </bookmark>
+  <bookmark href="https://rhysambler.github.io/symbols/" id="13">
+    <title>Symbololology</title>
+  </bookmark>
+  <bookmark href="https://unifi.ui.com/" id="61">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.abc.net.au/triplej/live/triplej" id="62">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://app.plex.tv/desktop/#!/login" id="63">
+    <title></title>
+  </bookmark>
+  <bookmark href="http://xkcd.com/" id="64">
+    <title></title>
+  </bookmark>
+  <bookmark href="http://en.wikipedia.org/wiki/Special:Random" id="65">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://proton.me/pass/password-generator" id="66">
+    <title></title>
+  </bookmark>
+  <folder id="67">
+    <title>Git</title>
+    <folder id="94">
+      <title>LittleLink</title>
+      <bookmark href="https://builder.littlelink.io/" id="106">
+        <title>LittleLink Button Builder</title>
+      </bookmark>
+      <bookmark href="https://github.com/rhysambler/littlelink" id="107">
+        <title>rhysambler/littlelink: A lightweight DIY Linktree alternative.</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="113">
+    <title>Projects</title>
+    <bookmark href="https://whatsmyname.app/" id="123">
+      <title>WhatsMyName Web</title>
+    </bookmark>
+    <bookmark href="https://claude.ai/chat/f116ca08-a830-4e53-9aed-eb9df3f50873" id="124">
+      <title>Modernizing Windows administration with PowerShell and cloud authentication - Claude</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://web.whatsapp.com/" id="114">
+    <title></title>
+  </bookmark>
+  <bookmark href="http://www.ebay.com.au/" id="115">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.icloud.com/#" id="116">
+    <title></title>
+  </bookmark>
+  <bookmark href="http://www.tmbank.com.au/" id="117">
+    <title></title>
+  </bookmark>
+  <bookmark href="http://www.abc.net.au/iview/" id="118">
+    <title></title>
+  </bookmark>
+  <bookmark href="http://www.wolframalpha.com/" id="129">
+    <title>W|A</title>
+  </bookmark>
+  <bookmark href="http://regexr.com/" id="130">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://vert.sh/" id="131">
+    <title></title>
+  </bookmark>
+  <bookmark href="http://smallpdf.com/" id="132">
+    <title>PDF</title>
+  </bookmark>
+  <bookmark href="https://stirling.com/app/settings/overview" id="133">
+    <title>Stirling PDF</title>
+  </bookmark>
+  <bookmark href="http://labs.hol.vmware.com/HOL/catalogs/catalog/280" id="134">
+    <title>VMware</title>
+  </bookmark>
+  <bookmark href="https://community.spiceworks.com/people/rhysambler/activity" id="135">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://it-tools.tech/" id="136">
+    <title>Tools</title>
+  </bookmark>
+  <bookmark href="https://theowni.github.io/EPSS-Calculator/" id="137">
+    <title>EPSS Calculator</title>
+  </bookmark>
+  <bookmark href="data:text/html, &lt;html contenteditable&gt;" id="138">
+    <title>Pad</title>
+  </bookmark>
+  <folder id="139">
+    <title>Alt</title>
+    <folder id="143">
+      <title>Powershell</title>
+      <bookmark href="https://www.gitbook.com/@devops-collective-inc" id="154">
+        <title>devops-collective-inc (@devops-collective-inc) on GitBook · GitBook</title>
+      </bookmark>
+    </folder>
+    <folder id="144">
+      <title>Webstercare</title>
+      <folder id="155">
+        <title>SOE</title>
+        <bookmark href="http://windowsitpro.com/systems-management/how-do-i-enable-unsolicited-remote-assistance" id="176">
+          <title>How do I enable unsolicited Remote Assistance? | Systems Management content from Windows IT Pro</title>
+        </bookmark>
+        <bookmark href="http://sourcedaddy.com/windows-7/managing-remote-assistance-using-group-policy.html" id="177">
+          <title>Managing Remote Assistance Using Group Policy - Windows 7 Tutorial</title>
+        </bookmark>
+        <bookmark href="http://www.7speedreading.com/" id="178">
+          <title>7 Speed Reading Software |</title>
+        </bookmark>
+        <bookmark href="https://msdn.microsoft.com/en-us/windows/hardware/commercialize/manufacture/desktop/customize-the-default-user-profile-by-using-copyprofile?f=255&amp;MSPPError=-2147217396" id="179">
+          <title>Customize the Default User Profile by Using CopyProfile</title>
+        </bookmark>
+        <bookmark href="http://jasonduffett.net/post/5448151233/administering-cross-forest-domains-with-a-single-login" id="180">
+          <title>Domain Admin rights on a cross-forest domain trust</title>
+        </bookmark>
+        <bookmark href="https://community.spiceworks.com/how_to/144758-step-by-step-for-setting-up-roaming-users-in-a-windows-2012-r2-domain?source=superfeed" id="181">
+          <title>Step-by-Step for Setting up “Roaming Users” in a Windows 2012 R2 Domain - Desktop Virtualization - Spiceworks</title>
+        </bookmark>
+        <bookmark href="http://windowsitpro.com/security/using-logon-rights-secure-ad-service-accounts" id="182">
+          <title>Securing 5 types of Logon Rights in AD DS</title>
+        </bookmark>
+      </folder>
+      <folder id="156">
+        <title>Access Based Enumeration</title>
+        <bookmark href="https://social.technet.microsoft.com/Search/en-US?query=access%20based%20enumeration%202012&amp;ac=3#refinementChanges=84&amp;pageNumber=1&amp;showMore=false" id="183">
+          <title>access based enumeration 2012 - Microsoft TechNet Search</title>
+        </bookmark>
+        <bookmark href="http://www.microsoft.com/en-us/download/details.aspx?id=17510" id="184">
+          <title>Download Windows Server 2003 Access-based Enumeration from Official Microsoft Download Center</title>
+        </bookmark>
+        <bookmark href="https://technet.microsoft.com/en-us/library/cc784710(v=ws.10).aspx" id="185">
+          <title>Access-based Enumeration</title>
+        </bookmark>
+        <bookmark href="https://social.technet.microsoft.com/Forums/en-US/3b6f552f-f139-495b-b12b-ac7e172422ce/access-based-enumeration-on-2012-r2-server?forum=winserverfiles" id="186">
+          <title>Access Based Enumeration on 2012 R2 server</title>
+        </bookmark>
+        <bookmark href="https://social.technet.microsoft.com/Forums/windowsserver/en-US/0e46e5f2-4ed3-47fe-94f3-99b73ca14880/server-folders-access-based-enumeration" id="187">
+          <title>Server Folders: Access Based Enumeration</title>
+        </bookmark>
+      </folder>
+      <folder id="157">
+        <title>Backup and HA</title>
+        <bookmark href="http://www.veeam.com/backup-version-standard-enterprise-editions-comparison.html" id="188">
+          <title>Editions Comparison – Veeam Backup &amp; Replication</title>
+        </bookmark>
+        <bookmark href="http://www.itsmdaily.com/things-to-consider-before-moving-to-veeam-backup-replication/" id="189">
+          <title>Things to consider before moving to Veeam Backup &amp; Replication - ITSMDaily.com</title>
+        </bookmark>
+        <bookmark href="https://stacksocial.com/sales/microsoft-certified-solutions-engineer-server-infrastructure-bundle?aid=a-te0d3o53" id="190">
+          <title>Microsoft Certified Solutions Engineer: Server Infrastructure Bundle | StackSocial</title>
+        </bookmark>
+        <bookmark href="http://www.zerto.com/solutions/use-cases/replication-disaster-recovery-solutions-dr-software/" id="191">
+          <title>Disaster Recovery Software Solution for VMs | Zerto</title>
+        </bookmark>
+        <bookmark href="https://www.google.com.au/search?q=veeam+ha+alternative&amp;oq=veeam+ha+alternative&amp;aqs=chrome..69i57.5066j0j4&amp;sourceid=chrome&amp;es_sm=122&amp;ie=UTF-8#safe=off&amp;q=veeam+vs+zerto" id="192">
+          <title>veeam vs zerto - Google Search</title>
+        </bookmark>
+        <bookmark href="http://peasoup.net/cto-blog-zerto-vs-veeam/" id="193">
+          <title>CTO Blog – Zerto vs Veeam | PeaSoup Cloud Services</title>
+        </bookmark>
+        <bookmark href="http://hardforum.com/showthread.php?t=1832554" id="194">
+          <title>Zerto for BC/DR vs Veeam vs SRM - [H]ard|Forum</title>
+        </bookmark>
+        <bookmark href="http://www.viktorious.nl/2013/07/08/comparing-disaster-recovery/" id="195">
+          <title>Comparing Disaster Recovery options for VMware vSphere - viktorious.nl - Virtualization &amp; Cloud Management</title>
+        </bookmark>
+        <bookmark href="http://www.hostednetwork.net.au/infrastructure-as-a-service/" id="196">
+          <title>Australian Infastructre as a Service - Hosted Network</title>
+        </bookmark>
+      </folder>
+      <folder id="158">
+        <title>BCP</title>
+        <bookmark href="http://www.championsg.com/includes/pdfs/Top-10-Best-Practices-of-Backup-for-VMware-and-Hyper-V.pdf" id="197">
+          <title>www.championsg.com/includes/pdfs/Top-10-Best-Practices-of-Backup-for-VMware-and-Hyper-V.pdf</title>
+        </bookmark>
+        <bookmark href="http://searchdisasterrecovery.techtarget.com/tutorial/Virtual-machine-replication-best-practices" id="198">
+          <title>Virtual machine replication best practices</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Business_continuity_planning#Impact_analysis_.28Business_Impact_Analysis.2C_BIA.29" id="199">
+          <title>Business continuity planning - Wikipedia, the free encyclopedia</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Business_continuity" id="200">
+          <title>Business continuity - Wikipedia, the free encyclopedia</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/IT_service_continuity" id="201">
+          <title>IT service continuity - Wikipedia, the free encyclopedia</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Disaster_recovery" id="202">
+          <title>Disaster recovery - Wikipedia, the free encyclopedia</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Recovery_time_objective" id="203">
+          <title>Recovery time objective - Wikipedia, the free encyclopedia</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Recovery_point_objective" id="204">
+          <title>Recovery point objective - Wikipedia, the free encyclopedia</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Recovery_consistency_objective" id="205">
+          <title>Recovery consistency objective - Wikipedia, the free encyclopedia</title>
+        </bookmark>
+      </folder>
+      <folder id="159">
+        <title>Win10</title>
+        <bookmark href="https://technet.microsoft.com/en-au/windows/dn798755" id="206">
+          <title>Windows 10 IT Pro FAQ - App Compat, Installation, Virtualization</title>
+        </bookmark>
+        <bookmark href="http://en.community.dell.com/techcenter/os-applications/w/wiki/2558" id="207">
+          <title>Create a WinPE Bootable disk to Support Dell Hardware (NIC, Mass Storage Injection) - OS and Applications - Wiki - OS and Applications - Dell Community</title>
+        </bookmark>
+        <bookmark href="http://media.community.dell.com/en/dtc/attach/mdt_os_deployment%20-2010.pdf" id="208">
+          <title>media.community.dell.com/en/dtc/attach/mdt_os_deployment -2010.pdf</title>
+        </bookmark>
+        <bookmark href="https://technet.microsoft.com/library/dn759415.aspx" id="209">
+          <title>Using the Microsoft Deployment Toolkit</title>
+        </bookmark>
+        <bookmark href="https://technet.microsoft.com/library/dn759415.aspx#PlanningMdtDeployments" id="210">
+          <title>Using the Microsoft Deployment Toolkit</title>
+        </bookmark>
+        <bookmark href="http://en.community.dell.com/techcenter/extras/m/white_papers/20219918" id="211">
+          <title>Files - White Papers - TechCenter Extras - Dell Community</title>
+        </bookmark>
+        <bookmark href="http://en.community.dell.com/techcenter/enterprise-client/w/wiki/6683.driver-pack-catalog" id="212">
+          <title>Driver Pack Catalog - Enterprise Client - Wiki - Client and Mobile Solutions - Dell Community</title>
+        </bookmark>
+        <bookmark href="http://en.community.dell.com/techcenter/enterprise-client/w/wiki/3588.driver-cab-release-schedule" id="213">
+          <title>Driver Pack Release Schedule - Enterprise Client - Wiki - Client and Mobile Solutions - Dell Community</title>
+        </bookmark>
+        <bookmark href="http://www.microsoft.com/en-us/download/details.aspx?id=25175" id="214">
+          <title>Download Microsoft Deployment Toolkit (MDT) 2012 Update 1 from Official Microsoft Download Center</title>
+        </bookmark>
+        <bookmark href="https://technet.microsoft.com/en-us/library/cc766387(v=ws.10).aspx" id="215">
+          <title>Work with Windows PE</title>
+        </bookmark>
+        <bookmark href="https://technet.microsoft.com/en-us/library/cc748933(v=ws.10).aspx" id="232">
+          <title>Windows Automated Installation Kit (Windows AIK)</title>
+        </bookmark>
+        <bookmark href="https://technet.microsoft.com/en-us/library/cc749480(v=ws.10).aspx" id="233">
+          <title>Preinstallation Concepts</title>
+        </bookmark>
+        <bookmark href="https://insider.windows.com/" id="234">
+          <title>Home page - Windows Insider Program</title>
+        </bookmark>
+        <bookmark href="https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/scripts/remove-default-apps.ps1" id="235">
+          <title>Debloat-Windows-10/remove-default-apps.ps1 at master · W4RH4WK/Debloat-Windows-10 · GitHub</title>
+        </bookmark>
+        <bookmark href="http://answers.microsoft.com/en-us/windows/forum/windows_10-start/windows-10-background-solid-color-white-is-not-an/89c9a25e-d428-405d-b601-88454a7ebbf1?auth=1" id="236">
+          <title>Windows 10 Background Solid Color White is not an available option. - Microsoft Community</title>
+        </bookmark>
+        <bookmark href="http://bucks/" id="237">
+          <title>sydneypole.com/service/form/thankyou/3/6</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="145">
+      <title>Rsync</title>
+      <bookmark href="http://a1979shakedown.wordpress.com/2009/01/19/set-up-an-rsync-server-in-ubuntu-for-file-syncing-between-machines/" id="160">
+        <title>Set Up An rsync Server in Ubuntu for File Syncing Between Machines « System Out</title>
+      </bookmark>
+      <bookmark href="https://help.ubuntu.com/community/rsync" id="161">
+        <title>rsync - Community Ubuntu Documentation</title>
+      </bookmark>
+      <bookmark href="http://sourceforge.net/apps/trac/sourceforge/wiki/Rsync%20over%20SSH" id="162">
+        <title>Rsync over SSH – sourceforge</title>
+      </bookmark>
+      <bookmark href="http://sourceforge.net/apps/trac/sourceforge/wiki/Using%20rsync%20for%20backups" id="163">
+        <title>Using rsync for backups – sourceforge</title>
+      </bookmark>
+      <bookmark href="http://www.debianhelp.co.uk/rsyncweb.htm" id="164">
+        <title>Rsync Backup Web interface or GUI Tools</title>
+      </bookmark>
+      <bookmark href="http://ostatic.com/backupmon" id="165">
+        <title>backupmon - RSYNC Backup front-end with Web Interface, email reports with attached summary. Simple to use; back up servers with a si</title>
+      </bookmark>
+      <bookmark href="http://swik.net/rsync+gui" id="166">
+        <title>rsync + gui - SWiK</title>
+      </bookmark>
+      <bookmark href="http://www.debianadmin.com/rsync-backup-web-interfacefrontend-or-gui-tools.html" id="167">
+        <title>Rsync Backup Web interface,Frontend or GUI Tools</title>
+      </bookmark>
+      <bookmark href="http://www.mikerubel.org/computers/rsync_snapshots/" id="168">
+        <title>Easy Automated Snapshot-Style Backups with Rsync</title>
+      </bookmark>
+      <bookmark href="http://www.freewebspace.net/forums/showthread.php?2221539-rsync-A-quick-HOWTO-guide" id="169">
+        <title>rsync - A quick HOWTO guide</title>
+      </bookmark>
+      <bookmark href="http://www.rsync.net/resources/howto/freenas_integration.html" id="231">
+        <title>www.rsync.net/resources/howto/freenas_integration.html</title>
+      </bookmark>
+    </folder>
+    <folder id="146">
+      <title>DDWRT</title>
+      <bookmark href="http://www.matrix44.net/blog/?p=1652" id="170">
+        <title>DD-WRT with WPA2-Enterprise and integrated RADIUS | Egon Rath</title>
+      </bookmark>
+      <bookmark href="http://www.untangle.com/shop/NG-Firewall-Free" id="171">
+        <title>NG Firewall Free | Untangle</title>
+      </bookmark>
+      <bookmark href="http://www.dd-wrt.com/wiki/index.php/NoCatSplash" id="172">
+        <title>NoCatSplash - DD-WRT Wiki</title>
+      </bookmark>
+      <bookmark href="http://dev.gengar.org/2011/02/nocatsplash/" id="173">
+        <title>DD-WRT NoCatSplash Setup « Gengar&apos;s DevBlog</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://www.evilmadscientist.com/article.php/magnettricks" id="147">
+      <title>17 cool magnet tricks - Evil Mad Scientist Laboratories</title>
+    </bookmark>
+    <bookmark href="http://www.lifehacker.com.au/2010/08/how-to-get-started-with-usenet-in-three-simple-steps/" id="148">
+      <title>How To Get Started With Usenet In Three Simple Steps | Lifehacker Australia</title>
+    </bookmark>
+    <bookmark href="https://chrome.google.com/extensions/detail/okphadhbbjadcifjplhifajfacbkkbod?hl=en" id="149">
+      <title>SABconnect++ - Google Chrome extension gallery</title>
+    </bookmark>
+    <bookmark href="http://www.sunax.com.au/products" id="150">
+      <title>Motorcycle Accessories - SUNAX Sunshields: Products</title>
+    </bookmark>
+    <bookmark href="http://popuw.com/4dprince.html" id="151">
+      <title>Prince of Persia : 4D Prince</title>
+    </bookmark>
+    <bookmark href="http://30.media.tumblr.com/tumblr_lll0apFprF1qktihro1_500.jpg" id="152">
+      <title>tumblr_lll0apFprF1qktihro1_500.jpg (500×667)</title>
+    </bookmark>
+    <bookmark href="http://www.allnatives.com.au/index.php?main_page=products_all&amp;disp_order=3&amp;page=3" id="225">
+      <title>All Products : AllNatives Online Tubestock Plant Nursery -, Australian Native Grevillea,Callistemon,Melaleuca,Banksia(and many more).Beautiful Flowering Plants for your Garden!</title>
+    </bookmark>
+    <bookmark href="http://www.australisplants.com.au/ornamentals/growing.htm" id="226">
+      <title>Australian Native Nursery, Grevillea, chamelaucium (Geraldton Wax), Leptospermum</title>
+    </bookmark>
+    <bookmark href="http://www.openculture.com/freemoviesonline" id="227">
+      <title>340 Free Movies Online: Great Classics, Indies, Noir, Westerns &amp; More | Open Culture</title>
+    </bookmark>
+    <bookmark href="http://www.gingerscreek.com.au/Attractions.html" id="228">
+      <title>Gingers Creek - Stay a day, Stay a week</title>
+    </bookmark>
+    <bookmark href="http://www.simonlong.co.uk/blog/" id="229">
+      <title>The SLOG – SimonLong/Blog</title>
+    </bookmark>
+    <bookmark href="http://blog.stevenocchipinti.com/2012/05/google-calendar-repeating-event-on-last.html" id="230">
+      <title>Google Calendar repeating event</title>
+    </bookmark>
+    <bookmark href="https://yourlogicalfallacyis.com/" id="238">
+      <title>Thou shalt not commit logical fallacies</title>
+    </bookmark>
+    <bookmark href="http://www.quayquartersydney.com.au/" id="239">
+      <title>Quay Quarter Sydney</title>
+    </bookmark>
+    <bookmark href="http://www.ferret.com.au/c/Motium/Low-power-3-5-single-board-computer-n688542" id="240">
+      <title>Low power 3.5&quot; single board computer</title>
+    </bookmark>
+    <bookmark href="http://www.mattcutts.com/blog/how-to-configure-synergy-in-six-steps/" id="241">
+      <title>How to configure Synergy in six steps</title>
+    </bookmark>
+    <bookmark href="https://mail.google.com/support/bin/answer.py?answer=7190" id="242">
+      <title>Using advanced search - Gmail Help</title>
+    </bookmark>
+    <bookmark href="http://ncase.me/polygons/" id="243">
+      <title>Parable of the Polygons - a playable post on the shape of society</title>
+    </bookmark>
+    <bookmark href="http://www.instapaper.com/" id="244">
+      <title>Instapaper</title>
+    </bookmark>
+    <bookmark href="http://en.factolex.com/" id="245">
+      <title>Factolex</title>
+    </bookmark>
+    <bookmark href="http://laterbro.com/" id="246">
+      <title>LaterBro</title>
+    </bookmark>
+    <bookmark href="https://www.unitag.io/qrcode" id="247">
+      <title>Design QR Code generator - Free - Unitag</title>
+    </bookmark>
+    <bookmark href="http://www.cnet.com/au/how-to/how-to-make-cleaning-slime-for-electronics/" id="248">
+      <title>Whip up a batch of all-purpose cleaning slime in minutes - CNET</title>
+    </bookmark>
+    <bookmark href="http://blogs.technet.com/b/uspartner_ts2team/archive/2012/02/13/what-are-the-top-issues-for-bitlocker.aspx" id="249">
+      <title>What are the Top Issues for Bitlocker? - Welcome to the US SMB&amp;D TS2 Team Blog - Site Home - TechNet Blogs</title>
+    </bookmark>
+    <bookmark href="http://www.skillsyouneed.com/write/business-case.html" id="250">
+      <title>Writing a Business Case | SkillsYouNeed</title>
+    </bookmark>
+    <bookmark href="http://www.lifehacker.com.au/2016/02/make-your-own-conductive-greeting-card-that-lights-up-when-touched/" id="251">
+      <title>Maker Conductive Greeting Card That Lights Up When Touched</title>
+    </bookmark>
+    <bookmark href="https://gallery.technet.microsoft.com/scriptcenter/Getting-Users-ALL-7417b71d" id="252">
+      <title>Script Active Directory Users attribute Administration-Powershell</title>
+    </bookmark>
+    <bookmark href="http://www.itechlounge.net/2013/04/windows-change-product-key-from-command-line/" id="253">
+      <title>Windows : Change product key from command line | ITechLounge.net</title>
+    </bookmark>
+    <bookmark href="http://www.thewindowsclub.com/find-windows-product-key" id="254">
+      <title>Find Windows Product Key using CMD or PowerShell</title>
+    </bookmark>
+    <bookmark href="http://www.nogeekleftbehind.com/2013/09/10/updated-list-of-os-version-queries-for-wmi-filters/" id="255">
+      <title>NoGeekLeftBehind.com » Updated List of OS Version Queries for WMI Filters</title>
+    </bookmark>
+    <bookmark href="https://mail.google.com/tasks/canvas" id="256">
+      <title>Google Tasks</title>
+    </bookmark>
+    <bookmark href="http://windowsitpro.com/active-directory/create-active-directory-mmc-consoles-down-level-administrators" id="257">
+      <title>Create Active Directory MMC Consoles for Down-Level Administrators | Active Directory content from Windows IT Pro</title>
+    </bookmark>
+    <bookmark href="https://openclipart.org/" id="258">
+      <title>Clipart - High Quality, Easy to Use, Free Support</title>
+    </bookmark>
+    <bookmark href="http://techgenix.com/microsoft-flow-automated-workflow-tutorial/?utm_source=email&amp;utm_medium=tgnewsletter&amp;utm_campaign=tgweekly-161206&amp;hq_e=el&amp;hq_m=1109303&amp;hq_l=8&amp;hq_v=91a1dbe3d7" id="259">
+      <title>Microsoft Flow: Getting started with automated workflows - TechGenix</title>
+    </bookmark>
+    <bookmark href="https://gallery.technet.microsoft.com/PS2EXE-Convert-PowerShell-9e4e07f1" id="260">
+      <title>TechNet PS2EXE : &quot;Convert&quot; PowerShell Scripts to EXE Files</title>
+    </bookmark>
+    <bookmark href="https://www.howsmyssl.com/" id="261">
+      <title>How&apos;s My SSL?</title>
+    </bookmark>
+    <bookmark href="https://www.sitepoint.com/lets-kill-the-password-magic-login-links-to-the-rescue/" id="262">
+      <title>Let&apos;s Kill the Password! Magic Login Links to the Rescue!</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-whatis" id="263">
+      <title>Azure AD Connect sync: Understand and customize synchronization | Microsoft Docs</title>
+    </bookmark>
+    <bookmark href="https://www.adamfowlerit.com/2017/04/ultimate-guide-saving-money-online-australia/" id="264">
+      <title>Ultimate Guide to Saving Money Online In Australia - Adam Fowler I.T.</title>
+    </bookmark>
+    <bookmark href="https://support.office.com/en-us/article/How-to-set-up-a-multifunction-device-or-application-to-send-email-using-Office-365-69f58e99-c550-4274-ad18-c805d654b4c4?ui=en-US&amp;rs=en-AU&amp;ad=AU#option2" id="265">
+      <title>How to set up a multifunction device or application to send email using Office 365 - Office 365</title>
+    </bookmark>
+    <bookmark href="https://foxdeploy.com/2015/04/16/part-ii-deploying-powershell-guis-in-minutes-using-visual-studio/" id="266">
+      <title>Part II – Deploying PowerShell GUIs in Minutes using Visual Studio – FoxDeploy.com</title>
+    </bookmark>
+    <bookmark href="http://www.silisoftware.com/tools/ipconverter.php" id="267">
+      <title>IP converter</title>
+    </bookmark>
+    <bookmark href="http://www.cisco.com/c/en/us/support/docs/voice/voice-quality/30141-symptoms.html#anc22" id="268">
+      <title>Recognizing and Categorizing Symptoms of Voice Quality Problems - Cisco</title>
+    </bookmark>
+    <bookmark href="http://www.afzaalace.com/synergy-stable-builds/" id="269">
+      <title>Synergy</title>
+    </bookmark>
+    <bookmark href="https://foxdeploy.com/2015/04/16/part-ii-deploying-powershell-guis-in-minutes-using-visual-studio/" id="270">
+      <title>Part II – Deploying PowerShell GUIs in Minutes using Visual Studio – FoxDeploy.com</title>
+    </bookmark>
+    <bookmark href="https://www.one-tab.com/page/1zFR365ZSE-h4cq-D3DY2w" id="271">
+      <title>NightGowns</title>
+    </bookmark>
+    <bookmark href="http://www.silisoftware.com/tools/ipconverter.php" id="272">
+      <title>IP converter</title>
+    </bookmark>
+    <bookmark href="https://www.adamfowlerit.com/2017/04/checking-csv-active-directory-users/" id="273">
+      <title>Checking CSV Against Active Directory Users - AdamFowlerIT.com</title>
+    </bookmark>
+    <bookmark href="https://app.fullcontact.com/" id="274">
+      <title>Full contact</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/active-directory-security-groups" id="275">
+      <title>Active Directory Security Groups (Windows 10) | Microsoft Docs</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
+    <title>CompTIA® Security+</title>
+  </bookmark>
+  <folder id="141">
+    <title>Imported from Chrome</title>
+    <folder id="153">
+      <title>Other bookmarks</title>
+      <bookmark href="https://www.graylog.org/" id="174">
+        <title>Graylog | Enterprise Log Management</title>
+      </bookmark>
+      <bookmark href="chrome://history/" id="175">
+        <title>History</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <bookmark href="https://nas.34.ambler.id.au:5001/" id="142">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://support.apple.com/en-us/119859" id="216">
+    <title>If you can’t turn on or sign in to iMessage or FaceTime on your iPhone - Apple Support</title>
+  </bookmark>
+  <folder id="217">
+    <title>Games</title>
+    <bookmark href="https://supermario-game.com/" id="223">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://gameforge.com/en-US/littlegames/fire-and-water-games/" id="224">
+      <title>Fire and Water Games: Play Fire and Water Games now</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.first.org/cvss/calculator/4-0" id="218">
+    <title>Common Vulnerability Scoring System Version 4.0 Calculator</title>
+  </bookmark>
+  <bookmark href="https://nvd.nist.gov/vuln-metrics/cvss/v4-calculator" id="219">
+    <title>NVD - CVSS v4 Calculator</title>
+  </bookmark>
+  <bookmark href="chrome://chrome-urls/" id="220">
+    <title>Chrome URLs</title>
+  </bookmark>
+  <bookmark href="https://disroot.org/" id="221">
+    <title>Disroot | Disroot.org</title>
+  </bookmark>
+  <bookmark href="https://scratch.mit.edu/" id="222">
+    <title>Scratch</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+  <folder id="14">
+    <title>Birthday cards</title>
+    <bookmark href="https://www.snapfish.com.au/store/general-birthday-cards#/bspview?ptype=cards&amp;pcat=birthday_cards_6189_snapfish_au&amp;scat=general_birthday_20456_snapfish_au&amp;filters=subCategories~general_birthday_20456_snapfish_au%3BskuList~CommerceProduct_8725&amp;offset=0&amp;limit=32&amp;view=BSP&amp;bspOffset=0&amp;isLoadMore=false&amp;isAutoload=true&amp;productCategory=Card%20%26%20Stationery" id="56">
+      <title>General Birthday Cards | Snapfish AU</title>
+    </bookmark>
+    <bookmark href="https://www.lovelayla.com.au/" id="57">
+      <title>Love Layla Australia | Unique Personalised Cards | Hilarious Gifts</title>
+    </bookmark>
+    <bookmark href="https://www.cardly.net/" id="58">
+      <title>Send Personalised Cards Online | Card Delivery | Cardly</title>
+    </bookmark>
+    <bookmark href="https://www.handpresscards.com.au/shop/" id="59">
+      <title>The Shop - Handmade personalised greeting cards for all occasions %</title>
+    </bookmark>
+    <bookmark href="https://istillcallaustraliahome.com/collections/post-a-card-within-australia" id="60">
+      <title>Post a Card within Australia</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://wallet.uphold.com/authorize/6d8d9473ed20be627f71ed46e207f40c004c5b1a?scope=cards:read%20cards:write%20user:read%20transactions:read%20transactions:transfer:application%20transactions:transfer:others&amp;intention=login&amp;state=0BCF9965000197D22734FF69B370661CE0C81666E74B6C59BF66FA4BA47253FF" id="15">
+    <title>Wallet</title>
+  </bookmark>
+  <bookmark href="https://www.findapharmacy.com.au/" id="16">
+    <title>Home | Find a Pharmacy</title>
+  </bookmark>
+  <bookmark href="https://usernamegenerator.com/" id="17">
+    <title>AI Username Generator</title>
+  </bookmark>
+  <bookmark href="https://jimpix.co.uk/words/username.asp" id="18">
+    <title>optimisticbuckle - Check Username Availability - Jimpix Usernames</title>
+  </bookmark>
+  <bookmark href="https://www.earthgreetings.com.au/2026-planners-calendars/" id="19">
+    <title>2026 Planners &amp; Calendars</title>
+  </bookmark>
+  <bookmark href="https://wiki.en.it-processmaps.com/index.php/ITIL-Checklists#IT_Service_Continuity_Management" id="20">
+    <title>ITIL Checklists | IT Process Wiki</title>
+  </bookmark>
+  <bookmark href="https://heartgarden.com.au/" id="21">
+    <title>Heart Garden Online Plant Nursery</title>
+  </bookmark>
+  <bookmark href="https://sourceforge.net/projects/bulk-crap-uninstaller/" id="22">
+    <title>Bulk Crap Uninstaller download | SourceForge.net</title>
+  </bookmark>
+  <bookmark href="https://editsvgcode.com/" id="23">
+    <title>Online SVG Code Editor</title>
+  </bookmark>
+  <folder id="68">
+    <title>Floccus</title>
+    <bookmark href="https://www.whatsmybrowser.org/" id="95">
+      <title>What browser am I using?</title>
+    </bookmark>
+    <bookmark href="https://jsonformatter.org/xml-viewer" id="96">
+      <title>XML Viewer Online</title>
+    </bookmark>
+    <bookmark href="data:text/html, &lt;html contenteditable&gt;" id="97">
+      <title>Pad</title>
+    </bookmark>
+    <bookmark href="chrome://chrome-urls/" id="98">
+      <title>Chrome URLs</title>
+    </bookmark>
+    <bookmark href="https://unsplash.com/" id="99">
+      <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
+    </bookmark>
+    <bookmark href="https://rhysambler.github.io/symbols/" id="100">
+      <title>Symbololology</title>
+    </bookmark>
+    <bookmark href="https://proton.me/pass/password-generator" id="101">
+      <title>Proton Password generator</title>
+    </bookmark>
+    <bookmark href="http://regexr.com/" id="102">
+      <title>Regexr</title>
+    </bookmark>
+    <bookmark href="https://vert.sh/" id="103">
+      <title>Vert</title>
+    </bookmark>
+    <bookmark href="https://stirling.com/app/settings/overview" id="104">
+      <title>Stirling PDF</title>
+    </bookmark>
+    <bookmark href="https://it-tools.tech/" id="125">
+      <title>Tools</title>
+    </bookmark>
+    <folder id="126">
+      <title>test</title>
+      <bookmark href="chrome://chrome-urls/" id="127">
+        <title>Chrome URLs</title>
+      </bookmark>
+      <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="128">
+        <title>The Kindness of Strangers - Schneier on Security</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="69">
+    <title>The Kindness of Strangers - Schneier on Security</title>
+  </bookmark>
+  <folder id="70">
+    <title>SimpleMarks</title>
+    <folder id="105">
+      <title>Tools</title>
+      <bookmark href="https://it-tools.tech/" id="108">
+        <title>Tools</title>
+      </bookmark>
+      <folder id="109">
+        <title>images</title>
+        <bookmark href="https://unsplash.com/" id="111">
+          <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
+        </bookmark>
+        <folder id="112">
+          <title>test</title>
+          <bookmark href="https://www.si.edu/search/images?edan_fq%5B0%5D=media_usage%3ACC0" id="120">
+            <title>www.si.edu</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <bookmark href="https://rhysambler.github.io/symbols/" id="110">
+        <title>Symbololology</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <bookmark href="https://jstrieb.github.io/link-lock/create/" id="71">
+    <title>Link Lock - Password-protect links</title>
+  </bookmark>
+  <bookmark href="https://yopass.se/" id="72">
+    <title>Yopass: Share Secrets Securely</title>
+  </bookmark>
+  <bookmark href="https://libraryofbabel.info/search.cgi" id="73">
+    <title>Library of babel</title>
+  </bookmark>
+  <bookmark href="https://www.qrcode-monkey.com/" id="74">
+    <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
+  </bookmark>
+  <bookmark href="https://www.themoviedb.org/" id="75">
+    <title>The Movie Database (TMDB)</title>
+  </bookmark>
+  <bookmark href="https://stirling.com/app" id="76">
+    <title>Stirling PDF</title>
+  </bookmark>
+  <bookmark href="https://app.rallly.co/" id="119">
+    <title>Rallly</title>
+  </bookmark>
+  <bookmark href="https://fuel.rfs.nsw.gov.au/course/view.php?id=202" id="121">
+    <title>Course: Firefighter 1</title>
+  </bookmark>
+  <bookmark href="https://linkwarden.app/" id="122">
+    <title>Linkwarden — Bookmarks, Evolved</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>Mobile Bookmarks</title>
+  <folder id="24">
+    <title>Bird Calls</title>
+  </folder>
+  <bookmark href="https://www.birdsinbackyards.net/species/Manorina-melanocephala" id="25">
+    <title>Noisy Miner | BIRDS in BACKYARDS</title>
+  </bookmark>
+  <bookmark href="https://en.m.wikipedia.org/wiki/List_of_Billboard_Modern_Rock_Tracks_number_ones_of_the_1990s#1998" id="26">
+    <title>List of Billboard Modern Rock Tracks number ones of the 1990s - Wikipedia</title>
+  </bookmark>
+  <bookmark href="https://www.powerlanguage.co.uk/wordle/" id="27">
+    <title>Wordle - A daily word game</title>
+  </bookmark>
+  <bookmark href="https://www.birdsinbackyards.net/birds/featured/Top-40-Bird-Songs" id="28">
+    <title>Top 40 Bird Songs | BIRDS in BACKYARDS</title>
+  </bookmark>
+  <bookmark href="https://www.spriters-resource.com/browse/assets/?name=Omochao" id="29">
+    <title>Browse Assets &amp; Games - The Spriters Resource</title>
+  </bookmark>
+  <bookmark href="https://www.makiandramen.com/%E7%A9%BA%E7%99%BD%E9%A0%81" id="30">
+    <title>404 Error: ex Found</title>
+  </bookmark>
+</folder>
+</xbel>
