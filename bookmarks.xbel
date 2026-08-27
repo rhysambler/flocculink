@@ -758,15 +758,6 @@
       </bookmark>
       <folder id="109">
         <title>images</title>
-        <bookmark href="https://unsplash.com/" id="111">
-          <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
-        </bookmark>
-        <folder id="112">
-          <title>test</title>
-          <bookmark href="https://www.si.edu/search/images?edan_fq%5B0%5D=media_usage%3ACC0" id="120">
-            <title>www.si.edu</title>
-          </bookmark>
-        </folder>
       </folder>
       <bookmark href="https://rhysambler.github.io/symbols/" id="110">
         <title>Symbololology</title>
@@ -811,6 +802,12 @@
   </bookmark>
   <bookmark href="chrome://newtab/" id="279">
     <title>New Tab</title>
+  </bookmark>
+  <bookmark href="https://www.si.edu/search/images?edan_fq%5B0%5D=media_usage%3ACC0" id="120">
+    <title>www.si.edu</title>
+  </bookmark>
+  <bookmark href="https://unsplash.com/" id="111">
+    <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
   </bookmark>
 </folder>
 <folder id="3">
