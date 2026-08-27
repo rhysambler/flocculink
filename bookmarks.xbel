@@ -738,12 +738,6 @@
     </bookmark>
     <folder id="126">
       <title>test</title>
-      <bookmark href="chrome://chrome-urls/" id="127">
-        <title>Chrome URLs</title>
-      </bookmark>
-      <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="128">
-        <title>The Kindness of Strangers - Schneier on Security</title>
-      </bookmark>
     </folder>
   </folder>
   <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="69">
@@ -799,6 +793,12 @@
   </bookmark>
   <bookmark href="https://rhysambler.github.io/symbols/" id="110">
     <title>Symbololology</title>
+  </bookmark>
+  <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="128">
+    <title>The Kindness of Strangers - Schneier on Security</title>
+  </bookmark>
+  <bookmark href="chrome://chrome-urls/" id="127">
+    <title>Chrome URLs</title>
   </bookmark>
 </folder>
 <folder id="3">
