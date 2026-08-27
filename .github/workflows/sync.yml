@@ -1,0 +1,34 @@
+name: Build and Deploy Bookmarks
+
+on:
+  push:
+    paths:
+      - 'bookmarks.xbel'
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Build index.html from XBEL
+        run: python scripts/parse_bookmarks.py
+
+      - name: Commit and Push index.html
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git status
+          # [skip ci] prevents an infinite trigger loop
+          git diff-index --quiet HEAD || git commit -m "auto-update index.html from floccus [skip ci]"
+          git push
