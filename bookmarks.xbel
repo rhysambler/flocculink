@@ -753,15 +753,9 @@
     <title>SimpleMarks</title>
     <folder id="105">
       <title>Tools</title>
-      <bookmark href="https://it-tools.tech/" id="108">
-        <title>Tools</title>
-      </bookmark>
       <folder id="109">
         <title>images</title>
       </folder>
-      <bookmark href="https://rhysambler.github.io/symbols/" id="110">
-        <title>Symbololology</title>
-      </bookmark>
     </folder>
   </folder>
   <bookmark href="https://jstrieb.github.io/link-lock/create/" id="71">
@@ -808,6 +802,12 @@
   </bookmark>
   <bookmark href="https://unsplash.com/" id="111">
     <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
+  </bookmark>
+  <bookmark href="https://it-tools.tech/" id="108">
+    <title>Tools</title>
+  </bookmark>
+  <bookmark href="https://rhysambler.github.io/symbols/" id="110">
+    <title>Symbololology</title>
   </bookmark>
 </folder>
 <folder id="3">
