@@ -712,18 +712,18 @@
         <title>Linkwarden — Bookmarks, Evolved</title>
       </bookmark>
     </folder>
-  </folder>
-  <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
-    <title>CompTIA® Security+</title>
-  </bookmark>
-  <folder id="141">
-    <title>Imported from Chrome</title>
     <bookmark href="https://www.graylog.org/" id="174">
       <title>Graylog | Enterprise Log Management</title>
     </bookmark>
     <bookmark href="chrome://history/" id="175">
       <title>History</title>
     </bookmark>
+  </folder>
+  <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
+    <title>CompTIA® Security+</title>
+  </bookmark>
+  <folder id="141">
+    <title>Imported from Chrome</title>
   </folder>
   <bookmark href="https://nas.34.ambler.id.au:5001/" id="142">
     <title></title>
