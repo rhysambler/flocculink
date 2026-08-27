@@ -703,12 +703,6 @@
   </bookmark>
   <folder id="68">
     <title>Floccus</title>
-    <bookmark href="https://www.whatsmybrowser.org/" id="95">
-      <title>What browser am I using?</title>
-    </bookmark>
-    <bookmark href="https://jsonformatter.org/xml-viewer" id="96">
-      <title>XML Viewer Online</title>
-    </bookmark>
     <bookmark href="data:text/html, &lt;html contenteditable&gt;" id="97">
       <title>Pad</title>
     </bookmark>
@@ -723,6 +717,9 @@
     </bookmark>
     <bookmark href="https://proton.me/pass/password-generator" id="101">
       <title>Proton Password generator</title>
+    </bookmark>
+    <bookmark href="https://jsonformatter.org/xml-viewer" id="96">
+      <title>XML Viewer Online</title>
     </bookmark>
     <bookmark href="http://regexr.com/" id="102">
       <title>Regexr</title>
@@ -799,6 +796,9 @@
   </bookmark>
   <bookmark href="chrome://chrome-urls/" id="127">
     <title>Chrome URLs</title>
+  </bookmark>
+  <bookmark href="https://www.whatsmybrowser.org/" id="95">
+    <title>What browser am I using?</title>
   </bookmark>
 </folder>
 <folder id="3">
