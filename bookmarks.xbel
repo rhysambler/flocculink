@@ -481,9 +481,6 @@
     <bookmark href="http://blog.stevenocchipinti.com/2012/05/google-calendar-repeating-event-on-last.html" id="230">
       <title>Google Calendar repeating event</title>
     </bookmark>
-    <bookmark href="https://yourlogicalfallacyis.com/" id="238">
-      <title>Thou shalt not commit logical fallacies</title>
-    </bookmark>
     <bookmark href="http://www.ferret.com.au/c/Motium/Low-power-3-5-single-board-computer-n688542" id="240">
       <title>Low power 3.5&quot; single board computer</title>
     </bookmark>
@@ -492,15 +489,6 @@
     </bookmark>
     <bookmark href="https://mail.google.com/support/bin/answer.py?answer=7190" id="242">
       <title>Using advanced search - Gmail Help</title>
-    </bookmark>
-    <bookmark href="http://www.instapaper.com/" id="244">
-      <title>Instapaper</title>
-    </bookmark>
-    <bookmark href="http://en.factolex.com/" id="245">
-      <title>Factolex</title>
-    </bookmark>
-    <bookmark href="http://laterbro.com/" id="246">
-      <title>LaterBro</title>
     </bookmark>
     <bookmark href="https://www.unitag.io/qrcode" id="247">
       <title>Design QR Code generator - Free - Unitag</title>
@@ -702,6 +690,15 @@
       <bookmark href="https://linkwarden.app/" id="122">
         <title>Linkwarden — Bookmarks, Evolved</title>
       </bookmark>
+      <bookmark href="http://www.instapaper.com/" id="244">
+        <title>Instapaper</title>
+      </bookmark>
+      <bookmark href="http://en.factolex.com/" id="245">
+        <title>Factolex</title>
+      </bookmark>
+      <bookmark href="http://laterbro.com/" id="246">
+        <title>LaterBro</title>
+      </bookmark>
     </folder>
     <bookmark href="https://www.graylog.org/" id="174">
       <title>Graylog | Enterprise Log Management</title>
@@ -714,9 +711,6 @@
     </bookmark>
     <bookmark href="https://www.qrcode-monkey.com/" id="74">
       <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
-    </bookmark>
-    <bookmark href="https://libraryofbabel.info/search.cgi" id="73">
-      <title>Library of babel</title>
     </bookmark>
     <bookmark href="https://heartgarden.com.au/" id="21">
       <title>Heart Garden Online Plant Nursery</title>
@@ -737,6 +731,12 @@
       </bookmark>
       <bookmark href="http://ncase.me/polygons/" id="243">
         <title>Parable of the Polygons - a playable post on the shape of society</title>
+      </bookmark>
+      <bookmark href="https://libraryofbabel.info/search.cgi" id="73">
+        <title>Library of babel</title>
+      </bookmark>
+      <bookmark href="https://yourlogicalfallacyis.com/" id="238">
+        <title>Thou shalt not commit logical fallacies</title>
       </bookmark>
     </folder>
     <folder id="285">
