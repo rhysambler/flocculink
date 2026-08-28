@@ -676,24 +676,6 @@
         <title>Let&apos;s Kill the Password! Magic Login Links to the Rescue!</title>
       </bookmark>
     </folder>
-    <folder id="281">
-      <title>products</title>
-      <bookmark href="https://linkwarden.app/" id="122">
-        <title>Linkwarden — Bookmarks, Evolved</title>
-      </bookmark>
-      <bookmark href="http://www.instapaper.com/" id="244">
-        <title>Instapaper</title>
-      </bookmark>
-      <bookmark href="http://en.factolex.com/" id="245">
-        <title>Factolex</title>
-      </bookmark>
-      <bookmark href="http://laterbro.com/" id="246">
-        <title>LaterBro</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://www.graylog.org/" id="174">
-      <title>Graylog | Enterprise Log Management</title>
-    </bookmark>
     <bookmark href="chrome://history/" id="175">
       <title>History</title>
     </bookmark>
@@ -751,6 +733,24 @@
         </bookmark>
         <bookmark href="https://www.unitag.io/qrcode" id="247">
           <title>Design QR Code generator - Free - Unitag</title>
+        </bookmark>
+      </folder>
+      <folder id="281">
+        <title>products</title>
+        <bookmark href="https://linkwarden.app/" id="122">
+          <title>Linkwarden — Bookmarks, Evolved</title>
+        </bookmark>
+        <bookmark href="http://www.instapaper.com/" id="244">
+          <title>Instapaper</title>
+        </bookmark>
+        <bookmark href="http://en.factolex.com/" id="245">
+          <title>Factolex</title>
+        </bookmark>
+        <bookmark href="http://laterbro.com/" id="246">
+          <title>LaterBro</title>
+        </bookmark>
+        <bookmark href="https://www.graylog.org/" id="174">
+          <title>Graylog | Enterprise Log Management</title>
         </bookmark>
       </folder>
     </folder>
