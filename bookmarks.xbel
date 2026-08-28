@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :293: for Floccus bookmark sync browser extension -->
+<!--- highestId :294: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -608,6 +608,9 @@
         <bookmark href="http://blogs.technet.com/b/uspartner_ts2team/archive/2012/02/13/what-are-the-top-issues-for-bitlocker.aspx" id="249">
           <title>What are the Top Issues for Bitlocker? - Welcome to the US SMB&amp;D TS2 Team Blog - Site Home - TechNet Blogs</title>
         </bookmark>
+        <folder id="294">
+          <title>WMI</title>
+        </folder>
       </folder>
       <folder id="145">
         <title>Rsync</title>
