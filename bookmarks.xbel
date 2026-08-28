@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :287: for Floccus bookmark sync browser extension -->
+<!--- highestId :288: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -490,9 +490,6 @@
     <bookmark href="https://mail.google.com/support/bin/answer.py?answer=7190" id="242">
       <title>Using advanced search - Gmail Help</title>
     </bookmark>
-    <bookmark href="https://www.unitag.io/qrcode" id="247">
-      <title>Design QR Code generator - Free - Unitag</title>
-    </bookmark>
     <bookmark href="http://www.cnet.com/au/how-to/how-to-make-cleaning-slime-for-electronics/" id="248">
       <title>Whip up a batch of all-purpose cleaning slime in minutes - CNET</title>
     </bookmark>
@@ -750,6 +747,12 @@
       <bookmark href="https://www.qrcode-monkey.com/" id="74">
         <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
       </bookmark>
+      <bookmark href="https://www.unitag.io/qrcode" id="247">
+        <title>Design QR Code generator - Free - Unitag</title>
+      </bookmark>
+    </folder>
+    <folder id="288">
+      <title>Platforms</title>
     </folder>
   </folder>
   <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
