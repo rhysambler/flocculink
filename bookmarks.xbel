@@ -286,12 +286,6 @@
     <bookmark href="http://www.lifehacker.com.au/2016/02/make-your-own-conductive-greeting-card-that-lights-up-when-touched/" id="251">
       <title>Maker Conductive Greeting Card That Lights Up When Touched</title>
     </bookmark>
-    <bookmark href="http://www.nogeekleftbehind.com/2013/09/10/updated-list-of-os-version-queries-for-wmi-filters/" id="255">
-      <title>NoGeekLeftBehind.com » Updated List of OS Version Queries for WMI Filters</title>
-    </bookmark>
-    <bookmark href="http://techgenix.com/microsoft-flow-automated-workflow-tutorial/?utm_source=email&amp;utm_medium=tgnewsletter&amp;utm_campaign=tgweekly-161206&amp;hq_e=el&amp;hq_m=1109303&amp;hq_l=8&amp;hq_v=91a1dbe3d7" id="259">
-      <title>Microsoft Flow: Getting started with automated workflows - TechGenix</title>
-    </bookmark>
     <bookmark href="https://www.adamfowlerit.com/2017/04/ultimate-guide-saving-money-online-australia/" id="264">
       <title>Ultimate Guide to Saving Money Online In Australia - Adam Fowler I.T.</title>
     </bookmark>
@@ -601,6 +595,9 @@
         </bookmark>
         <folder id="294">
           <title>WMI</title>
+          <bookmark href="http://www.nogeekleftbehind.com/2013/09/10/updated-list-of-os-version-queries-for-wmi-filters/" id="255">
+            <title>NoGeekLeftBehind.com » Updated List of OS Version Queries for WMI Filters</title>
+          </bookmark>
         </folder>
       </folder>
       <folder id="145">
@@ -643,6 +640,9 @@
         <title>365/Azure</title>
         <bookmark href="https://support.office.com/en-us/article/How-to-set-up-a-multifunction-device-or-application-to-send-email-using-Office-365-69f58e99-c550-4274-ad18-c805d654b4c4?ui=en-US&amp;rs=en-AU&amp;ad=AU#option2" id="265">
           <title>How to set up a multifunction device or application to send email using Office 365 - Office 365</title>
+        </bookmark>
+        <bookmark href="http://techgenix.com/microsoft-flow-automated-workflow-tutorial/?utm_source=email&amp;utm_medium=tgnewsletter&amp;utm_campaign=tgweekly-161206&amp;hq_e=el&amp;hq_m=1109303&amp;hq_l=8&amp;hq_v=91a1dbe3d7" id="259">
+          <title>Microsoft Flow: Getting started with automated workflows - TechGenix</title>
         </bookmark>
       </folder>
     </folder>
