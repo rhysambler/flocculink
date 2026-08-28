@@ -268,17 +268,8 @@
     <bookmark href="http://www.gingerscreek.com.au/Attractions.html" id="228">
       <title>Gingers Creek - Stay a day, Stay a week</title>
     </bookmark>
-    <bookmark href="http://www.simonlong.co.uk/blog/" id="229">
-      <title>The SLOG – SimonLong/Blog</title>
-    </bookmark>
-    <bookmark href="http://blog.stevenocchipinti.com/2012/05/google-calendar-repeating-event-on-last.html" id="230">
-      <title>Google Calendar repeating event</title>
-    </bookmark>
     <bookmark href="http://www.ferret.com.au/c/Motium/Low-power-3-5-single-board-computer-n688542" id="240">
       <title>Low power 3.5&quot; single board computer</title>
-    </bookmark>
-    <bookmark href="https://mail.google.com/support/bin/answer.py?answer=7190" id="242">
-      <title>Using advanced search - Gmail Help</title>
     </bookmark>
     <bookmark href="http://www.cnet.com/au/how-to/how-to-make-cleaning-slime-for-electronics/" id="248">
       <title>Whip up a batch of all-purpose cleaning slime in minutes - CNET</title>
@@ -647,6 +638,12 @@
       </folder>
       <folder id="295">
         <title>Google Workspace/Cloud</title>
+        <bookmark href="http://blog.stevenocchipinti.com/2012/05/google-calendar-repeating-event-on-last.html" id="230">
+          <title>Google Calendar repeating event</title>
+        </bookmark>
+        <bookmark href="https://mail.google.com/support/bin/answer.py?answer=7190" id="242">
+          <title>Using advanced search - Gmail Help</title>
+        </bookmark>
       </folder>
     </folder>
     <folder id="292">
@@ -686,6 +683,9 @@
       </bookmark>
       <bookmark href="http://www.cisco.com/c/en/us/support/docs/voice/voice-quality/30141-symptoms.html#anc22" id="268">
         <title>Recognizing and Categorizing Symptoms of Voice Quality Problems - Cisco</title>
+      </bookmark>
+      <bookmark href="http://www.simonlong.co.uk/blog/" id="229">
+        <title>The SLOG – SimonLong/Blog</title>
       </bookmark>
     </folder>
   </folder>
