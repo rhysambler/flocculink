@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :286: for Floccus bookmark sync browser extension -->
+<!--- highestId :287: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -709,9 +709,6 @@
     <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="128">
       <title>The Kindness of Strangers - Schneier on Security</title>
     </bookmark>
-    <bookmark href="https://www.qrcode-monkey.com/" id="74">
-      <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
-    </bookmark>
     <bookmark href="https://heartgarden.com.au/" id="21">
       <title>Heart Garden Online Plant Nursery</title>
     </bookmark>
@@ -747,6 +744,12 @@
     </folder>
     <folder id="286">
       <title>products</title>
+    </folder>
+    <folder id="287">
+      <title>QR</title>
+      <bookmark href="https://www.qrcode-monkey.com/" id="74">
+        <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
+      </bookmark>
     </folder>
   </folder>
   <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
