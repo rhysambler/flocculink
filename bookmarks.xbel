@@ -310,9 +310,6 @@
     <bookmark href="http://techgenix.com/microsoft-flow-automated-workflow-tutorial/?utm_source=email&amp;utm_medium=tgnewsletter&amp;utm_campaign=tgweekly-161206&amp;hq_e=el&amp;hq_m=1109303&amp;hq_l=8&amp;hq_v=91a1dbe3d7" id="259">
       <title>Microsoft Flow: Getting started with automated workflows - TechGenix</title>
     </bookmark>
-    <bookmark href="https://gallery.technet.microsoft.com/PS2EXE-Convert-PowerShell-9e4e07f1" id="260">
-      <title>TechNet PS2EXE : &quot;Convert&quot; PowerShell Scripts to EXE Files</title>
-    </bookmark>
     <bookmark href="https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-whatis" id="263">
       <title>Azure AD Connect sync: Understand and customize synchronization | Microsoft Docs</title>
     </bookmark>
@@ -514,6 +511,9 @@
         </bookmark>
         <bookmark href="https://www.adamfowlerit.com/2017/04/checking-csv-active-directory-users/" id="273">
           <title>Checking CSV Against Active Directory Users - AdamFowlerIT.com</title>
+        </bookmark>
+        <bookmark href="https://gallery.technet.microsoft.com/PS2EXE-Convert-PowerShell-9e4e07f1" id="260">
+          <title>TechNet PS2EXE : &quot;Convert&quot; PowerShell Scripts to EXE Files</title>
         </bookmark>
       </folder>
       <folder id="287">
