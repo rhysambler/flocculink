@@ -493,9 +493,6 @@
     <bookmark href="https://mail.google.com/support/bin/answer.py?answer=7190" id="242">
       <title>Using advanced search - Gmail Help</title>
     </bookmark>
-    <bookmark href="http://ncase.me/polygons/" id="243">
-      <title>Parable of the Polygons - a playable post on the shape of society</title>
-    </bookmark>
     <bookmark href="http://www.instapaper.com/" id="244">
       <title>Instapaper</title>
     </bookmark>
@@ -737,6 +734,9 @@
       <title>Interesting</title>
       <bookmark href="http://www.evilmadscientist.com/article.php/magnettricks" id="147">
         <title>17 cool magnet tricks - Evil Mad Scientist Laboratories</title>
+      </bookmark>
+      <bookmark href="http://ncase.me/polygons/" id="243">
+        <title>Parable of the Polygons - a playable post on the shape of society</title>
       </bookmark>
     </folder>
     <folder id="285">
