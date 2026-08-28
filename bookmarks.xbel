@@ -609,9 +609,6 @@
       <bookmark href="chrome://chrome-urls/" id="127">
         <title>Chrome URLs</title>
       </bookmark>
-      <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="69">
-        <title>The Kindness of Strangers - Schneier on Security</title>
-      </bookmark>
       <bookmark href="https://editsvgcode.com/" id="23">
         <title>Online SVG Code Editor</title>
       </bookmark>
@@ -707,6 +704,9 @@
       </bookmark>
       <bookmark href="https://yourlogicalfallacyis.com/" id="238">
         <title>Thou shalt not commit logical fallacies</title>
+      </bookmark>
+      <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="69">
+        <title>The Kindness of Strangers - Schneier on Security</title>
       </bookmark>
     </folder>
     <folder id="285">
