@@ -283,14 +283,8 @@
     <bookmark href="http://www.cnet.com/au/how-to/how-to-make-cleaning-slime-for-electronics/" id="248">
       <title>Whip up a batch of all-purpose cleaning slime in minutes - CNET</title>
     </bookmark>
-    <bookmark href="http://blogs.technet.com/b/uspartner_ts2team/archive/2012/02/13/what-are-the-top-issues-for-bitlocker.aspx" id="249">
-      <title>What are the Top Issues for Bitlocker? - Welcome to the US SMB&amp;D TS2 Team Blog - Site Home - TechNet Blogs</title>
-    </bookmark>
     <bookmark href="http://www.lifehacker.com.au/2016/02/make-your-own-conductive-greeting-card-that-lights-up-when-touched/" id="251">
       <title>Maker Conductive Greeting Card That Lights Up When Touched</title>
-    </bookmark>
-    <bookmark href="http://www.itechlounge.net/2013/04/windows-change-product-key-from-command-line/" id="253">
-      <title>Windows : Change product key from command line | ITechLounge.net</title>
     </bookmark>
     <bookmark href="http://www.nogeekleftbehind.com/2013/09/10/updated-list-of-os-version-queries-for-wmi-filters/" id="255">
       <title>NoGeekLeftBehind.com » Updated List of OS Version Queries for WMI Filters</title>
@@ -321,9 +315,6 @@
     </bookmark>
     <bookmark href="https://www.one-tab.com/page/1zFR365ZSE-h4cq-D3DY2w" id="271">
       <title>NightGowns</title>
-    </bookmark>
-    <bookmark href="https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/active-directory-security-groups" id="275">
-      <title>Active Directory Security Groups (Windows 10) | Microsoft Docs</title>
     </bookmark>
     <bookmark href="https://unifi.ui.com/" id="61">
       <title></title>
@@ -610,6 +601,12 @@
         </bookmark>
         <bookmark href="https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-whatis" id="263">
           <title>Azure AD Connect sync: Understand and customize synchronization | Microsoft Docs</title>
+        </bookmark>
+        <bookmark href="https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/active-directory-security-groups" id="275">
+          <title>Active Directory Security Groups (Windows 10) | Microsoft Docs</title>
+        </bookmark>
+        <bookmark href="http://blogs.technet.com/b/uspartner_ts2team/archive/2012/02/13/what-are-the-top-issues-for-bitlocker.aspx" id="249">
+          <title>What are the Top Issues for Bitlocker? - Welcome to the US SMB&amp;D TS2 Team Blog - Site Home - TechNet Blogs</title>
         </bookmark>
       </folder>
       <folder id="145">
