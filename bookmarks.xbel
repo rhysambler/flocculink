@@ -264,30 +264,6 @@
     <title>Alt</title>
     <folder id="144">
       <title>Webstercare</title>
-      <folder id="155">
-        <title>SOE</title>
-        <bookmark href="http://windowsitpro.com/systems-management/how-do-i-enable-unsolicited-remote-assistance" id="176">
-          <title>How do I enable unsolicited Remote Assistance? | Systems Management content from Windows IT Pro</title>
-        </bookmark>
-        <bookmark href="http://sourcedaddy.com/windows-7/managing-remote-assistance-using-group-policy.html" id="177">
-          <title>Managing Remote Assistance Using Group Policy - Windows 7 Tutorial</title>
-        </bookmark>
-        <bookmark href="http://www.7speedreading.com/" id="178">
-          <title>7 Speed Reading Software |</title>
-        </bookmark>
-        <bookmark href="https://msdn.microsoft.com/en-us/windows/hardware/commercialize/manufacture/desktop/customize-the-default-user-profile-by-using-copyprofile?f=255&amp;MSPPError=-2147217396" id="179">
-          <title>Customize the Default User Profile by Using CopyProfile</title>
-        </bookmark>
-        <bookmark href="http://jasonduffett.net/post/5448151233/administering-cross-forest-domains-with-a-single-login" id="180">
-          <title>Domain Admin rights on a cross-forest domain trust</title>
-        </bookmark>
-        <bookmark href="https://community.spiceworks.com/how_to/144758-step-by-step-for-setting-up-roaming-users-in-a-windows-2012-r2-domain?source=superfeed" id="181">
-          <title>Step-by-Step for Setting up “Roaming Users” in a Windows 2012 R2 Domain - Desktop Virtualization - Spiceworks</title>
-        </bookmark>
-        <bookmark href="http://windowsitpro.com/security/using-logon-rights-secure-ad-service-accounts" id="182">
-          <title>Securing 5 types of Logon Rights in AD DS</title>
-        </bookmark>
-      </folder>
       <folder id="156">
         <title>Access Based Enumeration</title>
         <bookmark href="https://social.technet.microsoft.com/Search/en-US?query=access%20based%20enumeration%202012&amp;ac=3#refinementChanges=84&amp;pageNumber=1&amp;showMore=false" id="183">
