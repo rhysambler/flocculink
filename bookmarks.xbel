@@ -337,9 +337,6 @@
     <bookmark href="https://www.one-tab.com/page/1zFR365ZSE-h4cq-D3DY2w" id="271">
       <title>NightGowns</title>
     </bookmark>
-    <bookmark href="https://www.adamfowlerit.com/2017/04/checking-csv-active-directory-users/" id="273">
-      <title>Checking CSV Against Active Directory Users - AdamFowlerIT.com</title>
-    </bookmark>
     <bookmark href="https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/active-directory-security-groups" id="275">
       <title>Active Directory Security Groups (Windows 10) | Microsoft Docs</title>
     </bookmark>
@@ -514,6 +511,9 @@
         <title>Powershell</title>
         <bookmark href="https://www.gitbook.com/@devops-collective-inc" id="154">
           <title>devops-collective-inc (@devops-collective-inc) on GitBook · GitBook</title>
+        </bookmark>
+        <bookmark href="https://www.adamfowlerit.com/2017/04/checking-csv-active-directory-users/" id="273">
+          <title>Checking CSV Against Active Directory Users - AdamFowlerIT.com</title>
         </bookmark>
       </folder>
       <folder id="287">
