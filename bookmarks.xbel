@@ -265,12 +265,6 @@
   </bookmark>
   <folder id="139">
     <title>Alt</title>
-    <folder id="143">
-      <title>Powershell</title>
-      <bookmark href="https://www.gitbook.com/@devops-collective-inc" id="154">
-        <title>devops-collective-inc (@devops-collective-inc) on GitBook · GitBook</title>
-      </bookmark>
-    </folder>
     <folder id="144">
       <title>Webstercare</title>
       <folder id="155">
@@ -742,17 +736,23 @@
     <folder id="286">
       <title>products</title>
     </folder>
-    <folder id="287">
-      <title>QR</title>
-      <bookmark href="https://www.qrcode-monkey.com/" id="74">
-        <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
-      </bookmark>
-      <bookmark href="https://www.unitag.io/qrcode" id="247">
-        <title>Design QR Code generator - Free - Unitag</title>
-      </bookmark>
-    </folder>
     <folder id="288">
       <title>Platforms</title>
+      <folder id="143">
+        <title>Powershell</title>
+        <bookmark href="https://www.gitbook.com/@devops-collective-inc" id="154">
+          <title>devops-collective-inc (@devops-collective-inc) on GitBook · GitBook</title>
+        </bookmark>
+      </folder>
+      <folder id="287">
+        <title>QR</title>
+        <bookmark href="https://www.qrcode-monkey.com/" id="74">
+          <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
+        </bookmark>
+        <bookmark href="https://www.unitag.io/qrcode" id="247">
+          <title>Design QR Code generator - Free - Unitag</title>
+        </bookmark>
+      </folder>
     </folder>
   </folder>
   <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
