@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :292: for Floccus bookmark sync browser extension -->
+<!--- highestId :293: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -647,6 +647,9 @@
         <bookmark href="http://www.rsync.net/resources/howto/freenas_integration.html" id="231">
           <title>www.rsync.net/resources/howto/freenas_integration.html</title>
         </bookmark>
+      </folder>
+      <folder id="293">
+        <title>365/Azure</title>
       </folder>
     </folder>
     <folder id="292">
