@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :282: for Floccus bookmark sync browser extension -->
+<!--- highestId :283: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -739,6 +739,9 @@
     <bookmark href="https://wallet.uphold.com/authorize/6d8d9473ed20be627f71ed46e207f40c004c5b1a?scope=cards:read%20cards:write%20user:read%20transactions:read%20transactions:transfer:application%20transactions:transfer:others&amp;intention=login&amp;state=0BCF9965000197D22734FF69B370661CE0C81666E74B6C59BF66FA4BA47253FF" id="15">
       <title>Wallet</title>
     </bookmark>
+    <folder id="283">
+      <title>Garden</title>
+    </folder>
   </folder>
   <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
     <title>CompTIA® Security+</title>
