@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :284: for Floccus bookmark sync browser extension -->
+<!--- highestId :285: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -715,9 +715,6 @@
     <bookmark href="https://www.schneier.com/blog/archives/2009/03/the_kindness_of.html" id="128">
       <title>The Kindness of Strangers - Schneier on Security</title>
     </bookmark>
-    <bookmark href="https://www.si.edu/search/images?edan_fq%5B0%5D=media_usage%3ACC0" id="120">
-      <title>www.si.edu</title>
-    </bookmark>
     <bookmark href="https://www.qrcode-monkey.com/" id="74">
       <title>QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo</title>
     </bookmark>
@@ -740,6 +737,12 @@
       <title>Interesting</title>
       <bookmark href="http://www.evilmadscientist.com/article.php/magnettricks" id="147">
         <title>17 cool magnet tricks - Evil Mad Scientist Laboratories</title>
+      </bookmark>
+    </folder>
+    <folder id="285">
+      <title>resources</title>
+      <bookmark href="https://www.si.edu/search/images?edan_fq%5B0%5D=media_usage%3ACC0" id="120">
+        <title>www.si.edu</title>
       </bookmark>
     </folder>
   </folder>
