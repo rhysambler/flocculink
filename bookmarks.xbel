@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :294: for Floccus bookmark sync browser extension -->
+<!--- highestId :295: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -644,6 +644,9 @@
         <bookmark href="http://techgenix.com/microsoft-flow-automated-workflow-tutorial/?utm_source=email&amp;utm_medium=tgnewsletter&amp;utm_campaign=tgweekly-161206&amp;hq_e=el&amp;hq_m=1109303&amp;hq_l=8&amp;hq_v=91a1dbe3d7" id="259">
           <title>Microsoft Flow: Getting started with automated workflows - TechGenix</title>
         </bookmark>
+      </folder>
+      <folder id="295">
+        <title>Google Workspace/Cloud</title>
       </folder>
     </folder>
     <folder id="292">
