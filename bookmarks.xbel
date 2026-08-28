@@ -463,9 +463,6 @@
         <title>www.rsync.net/resources/howto/freenas_integration.html</title>
       </bookmark>
     </folder>
-    <bookmark href="http://www.evilmadscientist.com/article.php/magnettricks" id="147">
-      <title>17 cool magnet tricks - Evil Mad Scientist Laboratories</title>
-    </bookmark>
     <bookmark href="http://www.allnatives.com.au/index.php?main_page=products_all&amp;disp_order=3&amp;page=3" id="225">
       <title>All Products : AllNatives Online Tubestock Plant Nursery -, Australian Native Grevillea,Callistemon,Melaleuca,Banksia(and many more).Beautiful Flowering Plants for your Garden!</title>
     </bookmark>
@@ -552,9 +549,6 @@
     </bookmark>
     <bookmark href="https://www.howsmyssl.com/" id="261">
       <title>How&apos;s My SSL?</title>
-    </bookmark>
-    <bookmark href="https://www.sitepoint.com/lets-kill-the-password-magic-login-links-to-the-rescue/" id="262">
-      <title>Let&apos;s Kill the Password! Magic Login Links to the Rescue!</title>
     </bookmark>
     <bookmark href="https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-whatis" id="263">
       <title>Azure AD Connect sync: Understand and customize synchronization | Microsoft Docs</title>
@@ -702,6 +696,9 @@
       <bookmark href="https://sourceforge.net/projects/bulk-crap-uninstaller/" id="22">
         <title>Bulk Crap Uninstaller download | SourceForge.net</title>
       </bookmark>
+      <bookmark href="https://www.sitepoint.com/lets-kill-the-password-magic-login-links-to-the-rescue/" id="262">
+        <title>Let&apos;s Kill the Password! Magic Login Links to the Rescue!</title>
+      </bookmark>
     </folder>
     <folder id="281">
       <title>products</title>
@@ -741,6 +738,9 @@
     </folder>
     <folder id="284">
       <title>Interesting</title>
+      <bookmark href="http://www.evilmadscientist.com/article.php/magnettricks" id="147">
+        <title>17 cool magnet tricks - Evil Mad Scientist Laboratories</title>
+      </bookmark>
     </folder>
   </folder>
   <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
