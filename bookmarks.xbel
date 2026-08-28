@@ -245,9 +245,6 @@
   <bookmark href="http://smallpdf.com/" id="132">
     <title>PDF</title>
   </bookmark>
-  <bookmark href="https://stirling.com/app/settings/overview" id="133">
-    <title>Stirling PDF</title>
-  </bookmark>
   <bookmark href="http://labs.hol.vmware.com/HOL/catalogs/catalog/280" id="134">
     <title>VMware</title>
   </bookmark>
@@ -578,9 +575,6 @@
       <title>Tools</title>
       <bookmark href="https://it-tools.tech/" id="125">
         <title>Tools</title>
-      </bookmark>
-      <bookmark href="https://stirling.com/app/settings/overview" id="104">
-        <title>Stirling PDF</title>
       </bookmark>
       <bookmark href="https://vert.sh/" id="103">
         <title>Vert</title>
