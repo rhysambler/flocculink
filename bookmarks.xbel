@@ -289,9 +289,6 @@
     <bookmark href="http://www.nogeekleftbehind.com/2013/09/10/updated-list-of-os-version-queries-for-wmi-filters/" id="255">
       <title>NoGeekLeftBehind.com » Updated List of OS Version Queries for WMI Filters</title>
     </bookmark>
-    <bookmark href="https://openclipart.org/" id="258">
-      <title>Clipart - High Quality, Easy to Use, Free Support</title>
-    </bookmark>
     <bookmark href="http://techgenix.com/microsoft-flow-automated-workflow-tutorial/?utm_source=email&amp;utm_medium=tgnewsletter&amp;utm_campaign=tgweekly-161206&amp;hq_e=el&amp;hq_m=1109303&amp;hq_l=8&amp;hq_v=91a1dbe3d7" id="259">
       <title>Microsoft Flow: Getting started with automated workflows - TechGenix</title>
     </bookmark>
@@ -306,12 +303,6 @@
     </bookmark>
     <bookmark href="http://www.cisco.com/c/en/us/support/docs/voice/voice-quality/30141-symptoms.html#anc22" id="268">
       <title>Recognizing and Categorizing Symptoms of Voice Quality Problems - Cisco</title>
-    </bookmark>
-    <bookmark href="http://www.afzaalace.com/synergy-stable-builds/" id="269">
-      <title>Synergy</title>
-    </bookmark>
-    <bookmark href="https://foxdeploy.com/2015/04/16/part-ii-deploying-powershell-guis-in-minutes-using-visual-studio/" id="270">
-      <title>Part II – Deploying PowerShell GUIs in Minutes using Visual Studio – FoxDeploy.com</title>
     </bookmark>
     <bookmark href="https://www.one-tab.com/page/1zFR365ZSE-h4cq-D3DY2w" id="271">
       <title>NightGowns</title>
@@ -474,6 +465,9 @@
       <bookmark href="http://www.silisoftware.com/tools/ipconverter.php" id="267">
         <title>IP converter</title>
       </bookmark>
+      <bookmark href="https://openclipart.org/" id="258">
+        <title>Clipart - High Quality, Easy to Use, Free Support</title>
+      </bookmark>
     </folder>
     <folder id="286">
       <title>products</title>
@@ -526,6 +520,9 @@
         </bookmark>
         <bookmark href="https://app.fullcontact.com/" id="274">
           <title>Full contact</title>
+        </bookmark>
+        <bookmark href="http://www.afzaalace.com/synergy-stable-builds/" id="269">
+          <title>Synergy</title>
         </bookmark>
       </folder>
       <folder id="291">
