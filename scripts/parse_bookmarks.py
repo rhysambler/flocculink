@@ -2,6 +2,9 @@ import xml.etree.ElementTree as ET
 import os
 from urllib.parse import urlparse
 
+# Version tracking: Major.Minor.YYYYMMDD.Revision
+VERSION = "0.1.20260831.02"
+
 XBEL_PATH = "bookmarks.xbel"
 OUTPUT_HTML = "index.html"
 
@@ -45,7 +48,6 @@ def parse_xbel_folder(element, depth=0):
             if item_count == 0:
                 continue
 
-            # Root folders start collapsed to save real estate; sub-folders expand automatically
             open_attr = "" if depth == 0 else "open"
             
             html_out += f'<details class="bookmark-category" {open_attr}>\n'
@@ -72,13 +74,11 @@ def parse_xbel_folder(element, depth=0):
             title_elem = child.find("title")
             raw_title = title_elem.text.strip() if (title_elem is not None and title_elem.text) else ""
             
-            # Fallback auto-naming if title is missing/empty
             title = raw_title if raw_title else generate_fallback_name(domain)
             
             favicon_url = f"https://www.google.com/s2/favicons?domain={domain}&sz=32" if domain else ""
             img_tag = f'<img src="{favicon_url}" alt="" class="favicon" /> ' if favicon_url else ""
             
-            # SVG Copy Icon
             copy_svg = '''<svg class="copy-icon" viewBox="0 0 24 24" width="14" height="14" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>'''
             
             html_out += f'      <li>'
@@ -103,7 +103,7 @@ def main():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Link Directory</title>
+    <title>Link Directory v{VERSION}</title>
     <style>
         :root {{
             --bg: #f4f5f7;
@@ -117,17 +117,32 @@ def main():
         body {{
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             margin: 0 auto;
-            max-width: 900px; /* Constrains folders to a clean, single-column alignment */
+            max-width: 900px;
             padding: 2rem 1rem;
             background: var(--bg);
             color: var(--text);
         }}
+        .header-container {{
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
+            margin-bottom: 1.5rem;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 0.5rem;
+        }}
         h1 {{
             font-size: 1.75rem;
-            margin-bottom: 1.5rem;
+            margin: 0;
+        }}
+        .version-tag {{
+            font-size: 0.85rem;
+            color: var(--text-subtle);
+            font-family: monospace;
+            background: #ebecf0;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
         }}
 
-        /* Single Column Stack for Category Folders */
         details.bookmark-category {{
             background: var(--card-bg);
             border-radius: 8px;
@@ -180,7 +195,6 @@ def main():
             border-top: 1px solid #f4f5f7;
         }}
 
-        /* Links Grid inside Opened Folders */
         ul.bookmark-grid {{
             list-style: none;
             padding: 0;
@@ -220,7 +234,6 @@ def main():
             margin-right: 8px;
         }}
 
-        /* Copy Button Styling */
         .copy-btn {{
             background: transparent;
             border: none;
@@ -243,7 +256,10 @@ def main():
     </style>
 </head>
 <body>
-    <h1>Bookmarks Directory</h1>
+    <div class="header-container">
+        <h1>Bookmarks Directory</h1>
+        <span class="version-tag">v{VERSION}</span>
+    </div>
     {bookmarks_html}
 
     <script>
@@ -265,7 +281,7 @@ def main():
 
     with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
         f.write(full_html)
-    print("Successfully built index.html with single-column layout, full Bookmarks Bar support, and copy buttons.")
+    print(f"Successfully generated {OUTPUT_HTML} (v{VERSION})")
 
 if __name__ == "__main__":
     main()
