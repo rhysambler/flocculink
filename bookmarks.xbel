@@ -77,9 +77,6 @@
   <bookmark href="http://www.wolframalpha.com/" id="129">
     <title>W|A</title>
   </bookmark>
-  <bookmark href="http://labs.hol.vmware.com/HOL/catalogs/catalog/280" id="134">
-    <title>VMware</title>
-  </bookmark>
   <bookmark href="https://community.spiceworks.com/people/rhysambler/activity" id="135">
     <title></title>
   </bookmark>
@@ -504,6 +501,9 @@
     </folder>
     <bookmark href="https://scratch.mit.edu/" id="222">
       <title>Scratch</title>
+    </bookmark>
+    <bookmark href="http://labs.hol.vmware.com/HOL/catalogs/catalog/280" id="134">
+      <title>VMware</title>
     </bookmark>
   </folder>
   <folder id="292">
