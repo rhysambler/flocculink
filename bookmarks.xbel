@@ -32,9 +32,6 @@
   <bookmark href="http://en.wikipedia.org/wiki/Special:Random" id="65">
     <title></title>
   </bookmark>
-  <bookmark href="https://proton.me/pass/password-generator" id="66">
-    <title></title>
-  </bookmark>
   <folder id="113">
     <title>Projects</title>
     <bookmark href="https://whatsmyname.app/" id="123">
@@ -230,6 +227,9 @@
       <title>PDF</title>
     </bookmark>
     <bookmark href="http://regexr.com/" id="130">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://proton.me/pass/password-generator" id="66">
       <title></title>
     </bookmark>
   </folder>
