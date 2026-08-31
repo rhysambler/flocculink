@@ -14,9 +14,6 @@
   <bookmark href="https://discreet-centipede.pikapod.net/login" id="9">
     <title></title>
   </bookmark>
-  <bookmark href="https://account.proton.me/mail" id="10">
-    <title></title>
-  </bookmark>
   <bookmark href="https://quickconnect.to/QUADTERRABITE" id="11">
     <title></title>
   </bookmark>
@@ -676,6 +673,9 @@
         <title>Ambler Family - Mail</title>
       </bookmark>
     </folder>
+    <bookmark href="https://account.proton.me/mail" id="10">
+      <title></title>
+    </bookmark>
   </folder>
   <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
     <title>CompTIA® Security+</title>
