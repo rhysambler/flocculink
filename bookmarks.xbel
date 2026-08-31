@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :298: for Floccus bookmark sync browser extension -->
+<!--- highestId :299: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -291,6 +291,9 @@
     </bookmark>
     <bookmark href="https://simpleicons.org/?q=bookmar" id="298">
       <title>Simple Icons</title>
+    </bookmark>
+    <bookmark href="https://convertico.net/" id="299">
+      <title>PNG, JPG, GIF to ICO Converter Online, Free | ConvertICO</title>
     </bookmark>
   </folder>
   <folder id="286">
