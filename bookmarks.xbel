@@ -80,9 +80,6 @@
   <bookmark href="http://www.wolframalpha.com/" id="129">
     <title>W|A</title>
   </bookmark>
-  <bookmark href="http://regexr.com/" id="130">
-    <title></title>
-  </bookmark>
   <bookmark href="http://labs.hol.vmware.com/HOL/catalogs/catalog/280" id="134">
     <title>VMware</title>
   </bookmark>
@@ -237,6 +234,9 @@
     </bookmark>
     <bookmark href="http://smallpdf.com/" id="132">
       <title>PDF</title>
+    </bookmark>
+    <bookmark href="http://regexr.com/" id="130">
+      <title></title>
     </bookmark>
   </folder>
   <folder id="283">
