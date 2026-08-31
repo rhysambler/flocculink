@@ -676,6 +676,9 @@
     <bookmark href="http://www.abc.net.au/iview/" id="118">
       <title></title>
     </bookmark>
+    <bookmark href="https://disroot.org/" id="221">
+      <title>Disroot | Disroot.org</title>
+    </bookmark>
   </folder>
   <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
     <title>CompTIA® Security+</title>
@@ -709,9 +712,6 @@
   </bookmark>
   <bookmark href="chrome://chrome-urls/" id="220">
     <title>Chrome URLs</title>
-  </bookmark>
-  <bookmark href="https://disroot.org/" id="221">
-    <title>Disroot | Disroot.org</title>
   </bookmark>
   <bookmark href="https://scratch.mit.edu/" id="222">
     <title>Scratch</title>
