@@ -114,6 +114,8 @@ def generate_full_html(folders):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bookmarks Directory {BUILD_VERSION}</title>
+    <!-- Favicon link -->
+    <link rel="icon" type="image/x-icon" href="bookmark.ico">
     <style>
         :root {{
             --bg: #f4f5f7;
