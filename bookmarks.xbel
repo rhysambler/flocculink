@@ -232,9 +232,6 @@
     <bookmark href="http://regexr.com/" id="130">
       <title></title>
     </bookmark>
-    <bookmark href="https://scratch.mit.edu/" id="222">
-      <title>Scratch</title>
-    </bookmark>
   </folder>
   <folder id="283">
     <title>Garden</title>
@@ -508,6 +505,9 @@
         <title>DD-WRT NoCatSplash Setup « Gengar&apos;s DevBlog</title>
       </bookmark>
     </folder>
+    <bookmark href="https://scratch.mit.edu/" id="222">
+      <title>Scratch</title>
+    </bookmark>
   </folder>
   <folder id="292">
     <title>Professional</title>
