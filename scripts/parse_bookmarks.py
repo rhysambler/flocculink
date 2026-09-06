@@ -138,7 +138,7 @@ def generate_full_html(folders):
             display: flex;
             align-items: center;
             justify-content: space-between;
-            margin-bottom: 1.5rem;
+            margin-bottom: 1rem;
             border-bottom: 2px solid var(--border);
             padding-bottom: 0.75rem;
         }}
@@ -153,6 +153,27 @@ def generate_full_html(folders):
             background: #ebecf0;
             padding: 0.25rem 0.5rem;
             border-radius: 4px;
+        }}
+
+        /* SEARCH BAR STYLES */
+        .search-container {{
+            margin-bottom: 1.25rem;
+        }}
+        #bookmark-search {{
+            width: 100%;
+            padding: 0.75rem 1rem;
+            font-size: 1rem;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            box-sizing: border-box;
+            background: var(--card-bg);
+            color: var(--text);
+            outline: none;
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        }}
+        #bookmark-search:focus {{
+            border-color: var(--accent);
+            box-shadow: 0 0 0 2px rgba(9, 105, 218, 0.2);
         }}
 
         details.bookmark-category {{
@@ -275,7 +296,13 @@ def generate_full_html(folders):
         <span class="version-tag">{BUILD_VERSION}</span>
     </div>
 
-    {folders_html}
+    <div class="search-container">
+        <input type="text" id="bookmark-search" placeholder="Search bookmarks by name or URL..." onkeyup="filterBookmarks()" />
+    </div>
+
+    <div id="bookmark-tree">
+        {folders_html}
+    </div>
 
     <script>
         function copyUrl(btn, url) {{
@@ -283,6 +310,39 @@ def generate_full_html(folders):
                 btn.classList.add('copied');
                 setTimeout(() => btn.classList.remove('copied'), 1500);
             }}).catch(err => console.error('Copy failed:', err));
+        }}
+
+        function filterBookmarks() {{
+            const query = document.getElementById('bookmark-search').value.toLowerCase().trim();
+            const categories = document.querySelectorAll('details.bookmark-category');
+
+            categories.forEach(category => {{
+                const items = category.querySelectorAll('ul.bookmark-list li');
+                let hasVisibleItem = false;
+
+                items.forEach(item => {{
+                    const text = item.textContent.toLowerCase();
+                    const link = item.querySelector('a.bookmark-link')?.href.toLowerCase() || '';
+                    
+                    if (query === '' || text.includes(query) || link.includes(query)) {{
+                        item.style.display = '';
+                        hasVisibleItem = true;
+                    }} else {{
+                        item.style.display = 'none';
+                    }}
+                }});
+
+                if (query.length > 0) {{
+                    if (hasVisibleItem) {{
+                        category.style.display = '';
+                        category.open = true;
+                    }} else {{
+                        category.style.display = 'none';
+                    }}
+                }} else {{
+                    category.style.display = '';
+                }}
+            }});
         }}
     </script>
 </body>
