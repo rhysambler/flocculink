@@ -65,9 +65,6 @@
       <title>Maker Conductive Greeting Card That Lights Up When Touched</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
-    <title>CompTIA® Security+</title>
-  </bookmark>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
@@ -519,6 +516,9 @@
     </bookmark>
     <folder id="322">
       <title>Security</title>
+      <bookmark href="https://www.safaribooksonline.com/library/view/comptia-security-sy0-501/9780134845906/ch00.xhtml" id="140">
+        <title>CompTIA® Security+</title>
+      </bookmark>
     </folder>
   </folder>
   <folder id="5">
