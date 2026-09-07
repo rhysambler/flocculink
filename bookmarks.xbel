@@ -65,12 +65,6 @@
       <title>Maker Conductive Greeting Card That Lights Up When Touched</title>
     </bookmark>
   </folder>
-  <bookmark href="http://www.tmbank.com.au/" id="117">
-    <title>Teachers Mutual Bank</title>
-  </bookmark>
-  <bookmark href="http://www.wolframalpha.com/" id="129">
-    <title>W|A</title>
-  </bookmark>
   <bookmark href="https://community.spiceworks.com/people/rhysambler/activity" id="135">
     <title></title>
   </bookmark>
@@ -784,6 +778,12 @@
   </folder>
   <folder id="321">
     <title>Services</title>
+    <bookmark href="http://www.tmbank.com.au/" id="117">
+      <title>Teachers Mutual Bank</title>
+    </bookmark>
+    <bookmark href="http://www.wolframalpha.com/" id="129">
+      <title>WolframAlpha</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="3">
