@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :305: for Floccus bookmark sync browser extension -->
+<!--- highestId :307: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -735,6 +735,12 @@
     </bookmark>
     <bookmark href="https://www.monicahq.com/en/" id="305">
       <title>Monica — the open-source personal CRM</title>
+    </bookmark>
+    <bookmark href="https://snipeitapp.com/" id="306">
+      <title>Home - Snipe-IT Free open source IT asset management</title>
+    </bookmark>
+    <bookmark href="https://moodle.org/" id="307">
+      <title>Home | Moodle.org</title>
     </bookmark>
   </folder>
 </folder>
