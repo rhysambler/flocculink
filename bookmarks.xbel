@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :309: for Floccus bookmark sync browser extension -->
+<!--- highestId :310: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -747,6 +747,9 @@
     </bookmark>
     <bookmark href="https://github.com/janeczku/calibre-web" id="309">
       <title>GitHub - janeczku/calibre-web: :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database · GitHub</title>
+    </bookmark>
+    <bookmark href="https://silverbullet.md/" id="310">
+      <title>SilverBullet</title>
     </bookmark>
   </folder>
 </folder>
