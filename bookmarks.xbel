@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :300: for Floccus bookmark sync browser extension -->
+<!--- highestId :301: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -498,6 +498,9 @@
     </bookmark>
     <bookmark href="http://labs.hol.vmware.com/HOL/catalogs/catalog/280" id="134">
       <title>VMware</title>
+    </bookmark>
+    <bookmark href="https://audiobookshelf.org/" id="301">
+      <title>Audiobookshelf</title>
     </bookmark>
   </folder>
   <folder id="292">
