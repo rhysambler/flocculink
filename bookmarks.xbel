@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :299: for Floccus bookmark sync browser extension -->
+<!--- highestId :300: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -11,7 +11,7 @@
   <bookmark href="https://quickconnect.to/QUADTERRABITE" id="11">
     <title></title>
   </bookmark>
-  <bookmark href="https://192-168-34-125.quadterrabite.direct.quickconnect.to/wordpress/wp-login.php" id="12">
+  <bookmark href="https://192-168-72-200.quadterrabite.direct.quickconnect.to/wordpress/wp-login.php" id="300">
     <title>WP</title>
   </bookmark>
   <bookmark href="https://rhysambler.github.io/symbols/" id="13">
