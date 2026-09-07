@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :301: for Floccus bookmark sync browser extension -->
+<!--- highestId :302: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -499,9 +499,6 @@
     <bookmark href="http://labs.hol.vmware.com/HOL/catalogs/catalog/280" id="134">
       <title>VMware</title>
     </bookmark>
-    <bookmark href="https://audiobookshelf.org/" id="301">
-      <title>Audiobookshelf</title>
-    </bookmark>
   </folder>
   <folder id="292">
     <title>Professional</title>
@@ -725,6 +722,12 @@
   <bookmark href="https://support.apple.com/en-us/119859" id="216">
     <title>If you can’t turn on or sign in to iMessage or FaceTime on your iPhone - Apple Support</title>
   </bookmark>
+  <folder id="302">
+    <title>Self host projects</title>
+    <bookmark href="https://audiobookshelf.org/" id="301">
+      <title>Audiobookshelf</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="3">
   <title>Mobile Bookmarks</title>
