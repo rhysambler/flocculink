@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :302: for Floccus bookmark sync browser extension -->
+<!--- highestId :304: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -726,6 +726,12 @@
     <title>Self host projects</title>
     <bookmark href="https://audiobookshelf.org/" id="301">
       <title>Audiobookshelf</title>
+    </bookmark>
+    <bookmark href="https://freescout.net/" id="303">
+      <title>Best open source help desk: Zendesk &amp; Help Scout alternative</title>
+    </bookmark>
+    <bookmark href="https://github.com/sissbruecker/linkding" id="304">
+      <title>GitHub - sissbruecker/linkding: Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. · GitHub</title>
     </bookmark>
   </folder>
 </folder>
