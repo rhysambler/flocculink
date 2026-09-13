@@ -259,6 +259,15 @@
     <bookmark href="https://app.fullcontact.com/" id="274">
       <title>Full contact</title>
     </bookmark>
+    <bookmark href="http://laterbro.com/" id="246">
+      <title>LaterBro</title>
+    </bookmark>
+    <bookmark href="http://en.factolex.com/" id="245">
+      <title>Factolex</title>
+    </bookmark>
+    <bookmark href="http://www.instapaper.com/" id="244">
+      <title>Instapaper</title>
+    </bookmark>
   </folder>
   <folder id="288">
     <title>Platforms</title>
@@ -291,15 +300,6 @@
     </folder>
     <folder id="281">
       <title>products</title>
-      <bookmark href="http://www.instapaper.com/" id="244">
-        <title>Instapaper</title>
-      </bookmark>
-      <bookmark href="http://en.factolex.com/" id="245">
-        <title>Factolex</title>
-      </bookmark>
-      <bookmark href="http://laterbro.com/" id="246">
-        <title>LaterBro</title>
-      </bookmark>
       <bookmark href="https://www.graylog.org/" id="174">
         <title>Graylog | Enterprise Log Management</title>
       </bookmark>
