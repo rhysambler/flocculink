@@ -84,6 +84,9 @@
       <bookmark href="https://www.monicahq.com/en/" id="305">
         <title>Monica — the open-source personal CRM</title>
       </bookmark>
+      <bookmark href="https://shlink.io/" id="315">
+        <title>Shlink — The URL shortener</title>
+      </bookmark>
       <bookmark href="https://github.com/janeczku/calibre-web" id="309">
         <title>GitHub - janeczku/calibre-web: :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database · GitHub</title>
       </bookmark>
@@ -119,9 +122,6 @@
       </bookmark>
       <bookmark href="https://docs.paperless-ngx.com/" id="314">
         <title>Home - Paperless-ngx</title>
-      </bookmark>
-      <bookmark href="https://shlink.io/" id="315">
-        <title>Shlink — The URL shortener</title>
       </bookmark>
       <bookmark href="https://wekan.fi/" id="317">
         <title>WeKan ® — Open-Source kanban</title>
