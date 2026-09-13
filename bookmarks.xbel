@@ -66,6 +66,9 @@
       <bookmark href="https://jellyfin.org/" id="323">
         <title>The Free Software Media System | Jellyfin</title>
       </bookmark>
+      <bookmark href="https://grocy.info/" id="311">
+        <title>Grocy - ERP beyond your fridge</title>
+      </bookmark>
       <bookmark href="https://audiobookshelf.org/" id="301">
         <title>Audiobookshelf</title>
       </bookmark>
@@ -107,9 +110,6 @@
       </bookmark>
       <bookmark href="https://github.com/janeczku/calibre-web" id="309">
         <title>GitHub - janeczku/calibre-web: :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database · GitHub</title>
-      </bookmark>
-      <bookmark href="https://grocy.info/" id="311">
-        <title>Grocy - ERP beyond your fridge</title>
       </bookmark>
       <bookmark href="https://homebox.software/en/" id="312">
         <title>HomeBox | Homebox</title>
