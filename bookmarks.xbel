@@ -145,6 +145,9 @@
     <bookmark href="http://www.wolframalpha.com/" id="129">
       <title>WolframAlpha</title>
     </bookmark>
+    <bookmark href="https://scratch.mit.edu/" id="222">
+      <title>Scratch</title>
+    </bookmark>
   </folder>
   <folder id="280">
     <title>Tools</title>
@@ -297,9 +300,6 @@
       <bookmark href="https://www.unitag.io/qrcode" id="247">
         <title>Design QR Code generator - Free - Unitag</title>
       </bookmark>
-    </folder>
-    <folder id="281">
-      <title>products</title>
     </folder>
     <folder id="291">
       <title>Windows</title>
@@ -457,9 +457,6 @@
         <title>DD-WRT NoCatSplash Setup « Gengar&apos;s DevBlog</title>
       </bookmark>
     </folder>
-    <bookmark href="https://scratch.mit.edu/" id="222">
-      <title>Scratch</title>
-    </bookmark>
     <bookmark href="http://labs.hol.vmware.com/HOL/catalogs/catalog/280" id="134">
       <title>VMware</title>
     </bookmark>
