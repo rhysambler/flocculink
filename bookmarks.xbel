@@ -63,14 +63,17 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
+      <bookmark href="https://jellyfin.org/" id="323">
+        <title>The Free Software Media System | Jellyfin</title>
+      </bookmark>
       <bookmark href="https://audiobookshelf.org/" id="301">
         <title>Audiobookshelf</title>
       </bookmark>
-      <bookmark href="https://nextcloud.com/" id="320">
-        <title>Nextcloud - Open source content collaboration platform</title>
-      </bookmark>
       <bookmark href="https://linkwarden.app/" id="122">
         <title>Linkwarden — Bookmarks, Evolved</title>
+      </bookmark>
+      <bookmark href="https://nextcloud.com/" id="320">
+        <title>Nextcloud - Open source content collaboration platform</title>
       </bookmark>
       <bookmark href="https://www.monicahq.com/en/" id="305">
         <title>Monica — the open-source personal CRM</title>
@@ -122,9 +125,6 @@
       </bookmark>
       <bookmark href="https://github.com/pglombardo/PasswordPusher" id="319">
         <title>GitHub - pglombardo/PasswordPusher: 🔐 Securely share sensitive information with automatic expiration &amp; deletion after a set number of views or duration. Track who, what and when with full audit logs. · GitHub</title>
-      </bookmark>
-      <bookmark href="https://jellyfin.org/" id="323">
-        <title>The Free Software Media System | Jellyfin</title>
       </bookmark>
     </folder>
     <bookmark href="http://www.lifehacker.com.au/2016/02/make-your-own-conductive-greeting-card-that-lights-up-when-touched/" id="251">
