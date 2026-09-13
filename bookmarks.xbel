@@ -72,11 +72,14 @@
       <bookmark href="https://linkwarden.app/" id="122">
         <title>Linkwarden — Bookmarks, Evolved</title>
       </bookmark>
-      <bookmark href="https://nextcloud.com/" id="320">
-        <title>Nextcloud - Open source content collaboration platform</title>
+      <bookmark href="https://github.com/sissbruecker/linkding" id="304">
+        <title>GitHub - sissbruecker/linkding: Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. · GitHub</title>
       </bookmark>
       <bookmark href="https://www.monicahq.com/en/" id="305">
         <title>Monica — the open-source personal CRM</title>
+      </bookmark>
+      <bookmark href="https://nextcloud.com/" id="320">
+        <title>Nextcloud - Open source content collaboration platform</title>
       </bookmark>
       <bookmark href="https://freescout.net/" id="303">
         <title>Best open source help desk: Zendesk &amp; Help Scout alternative</title>
@@ -93,8 +96,8 @@
       <bookmark href="https://github.com/pglombardo/PasswordPusher" id="319">
         <title>GitHub - pglombardo/PasswordPusher: 🔐 Securely share sensitive information with automatic expiration &amp; deletion after a set number of views or duration. Track who, what and when with full audit logs. · GitHub</title>
       </bookmark>
-      <bookmark href="https://github.com/sissbruecker/linkding" id="304">
-        <title>GitHub - sissbruecker/linkding: Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. · GitHub</title>
+      <bookmark href="https://rallly.co/en-GB" id="318">
+        <title>Rallly: Free Group Meeting Scheduling Tool</title>
       </bookmark>
       <bookmark href="https://github.com/we-promise/sure" id="308">
         <title>GitHub - we-promise/sure: The personal finance app for everyone (by everyone) · GitHub</title>
@@ -122,9 +125,6 @@
       </bookmark>
       <bookmark href="https://wekan.fi/" id="317">
         <title>WeKan ® — Open-Source kanban</title>
-      </bookmark>
-      <bookmark href="https://rallly.co/en-GB" id="318">
-        <title>Rallly: Free Group Meeting Scheduling Tool</title>
       </bookmark>
     </folder>
     <bookmark href="http://www.lifehacker.com.au/2016/02/make-your-own-conductive-greeting-card-that-lights-up-when-touched/" id="251">
