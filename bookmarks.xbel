@@ -87,6 +87,9 @@
       <bookmark href="https://snipeitapp.com/" id="306">
         <title>Home - Snipe-IT Free open source IT asset management</title>
       </bookmark>
+      <bookmark href="https://vikunja.io/" id="316">
+        <title>Vikunja: The task manager you actually own</title>
+      </bookmark>
       <bookmark href="https://github.com/sissbruecker/linkding" id="304">
         <title>GitHub - sissbruecker/linkding: Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. · GitHub</title>
       </bookmark>
@@ -113,9 +116,6 @@
       </bookmark>
       <bookmark href="https://shlink.io/" id="315">
         <title>Shlink — The URL shortener</title>
-      </bookmark>
-      <bookmark href="https://vikunja.io/" id="316">
-        <title>Vikunja: The task manager you actually own</title>
       </bookmark>
       <bookmark href="https://wekan.fi/" id="317">
         <title>WeKan ® — Open-Source kanban</title>
