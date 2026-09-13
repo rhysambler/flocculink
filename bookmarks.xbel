@@ -88,12 +88,6 @@
     <bookmark href="https://proton.me/pass/password-generator" id="101">
       <title>Proton Password generator</title>
     </bookmark>
-    <bookmark href="https://rhysambler.github.io/symbols/" id="100">
-      <title>Symbololology</title>
-    </bookmark>
-    <bookmark href="chrome://chrome-urls/" id="98">
-      <title>Chrome URLs</title>
-    </bookmark>
     <bookmark href="data:text/html, &lt;html contenteditable&gt;" id="97">
       <title>Pad</title>
     </bookmark>
@@ -213,6 +207,12 @@
     </bookmark>
     <bookmark href="https://simpleicons.org/?q=bookmar" id="298">
       <title>Simple Icons</title>
+    </bookmark>
+    <bookmark href="https://rhysambler.github.io/symbols/" id="100">
+      <title>Symbololology</title>
+    </bookmark>
+    <bookmark href="chrome://chrome-urls/" id="98">
+      <title>Chrome URLs</title>
     </bookmark>
   </folder>
   <folder id="286">
