@@ -85,9 +85,6 @@
     <bookmark href="https://jsonformatter.org/xml-viewer" id="96">
       <title>XML Viewer Online</title>
     </bookmark>
-    <bookmark href="https://proton.me/pass/password-generator" id="101">
-      <title>Proton Password generator</title>
-    </bookmark>
     <bookmark href="data:text/html, &lt;html contenteditable&gt;" id="97">
       <title>Pad</title>
     </bookmark>
@@ -105,12 +102,6 @@
     </bookmark>
     <bookmark href="https://app.rallly.co/" id="119">
       <title>Rallly</title>
-    </bookmark>
-    <bookmark href="https://unsplash.com/" id="99">
-      <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
-    </bookmark>
-    <bookmark href="https://www.themoviedb.org/" id="75">
-      <title>The Movie Database (TMDB)</title>
     </bookmark>
     <bookmark href="https://www.tipp10.com/en/auth/" id="276">
       <title>Tipp10 Online Typing Tutor | Sign in</title>
@@ -153,6 +144,9 @@
     </bookmark>
     <bookmark href="http://smallpdf.com/" id="132">
       <title>PDF</title>
+    </bookmark>
+    <bookmark href="https://proton.me/pass/password-generator" id="101">
+      <title>Proton Password generator</title>
     </bookmark>
   </folder>
   <folder id="283">
@@ -213,6 +207,12 @@
     </bookmark>
     <bookmark href="chrome://chrome-urls/" id="98">
       <title>Chrome URLs</title>
+    </bookmark>
+    <bookmark href="https://unsplash.com/" id="99">
+      <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
+    </bookmark>
+    <bookmark href="https://www.themoviedb.org/" id="75">
+      <title>The Movie Database (TMDB)</title>
     </bookmark>
   </folder>
   <folder id="286">
