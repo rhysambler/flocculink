@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :323: for Floccus bookmark sync browser extension -->
+<!--- highestId :324: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -125,6 +125,9 @@
       </bookmark>
       <bookmark href="https://wekan.fi/" id="317">
         <title>WeKan ® — Open-Source kanban</title>
+      </bookmark>
+      <bookmark href="https://pi-hole.net/" id="324">
+        <title>Pi-hole – Network-wide Ad Blocking</title>
       </bookmark>
     </folder>
     <bookmark href="http://www.lifehacker.com.au/2016/02/make-your-own-conductive-greeting-card-that-lights-up-when-touched/" id="251">
