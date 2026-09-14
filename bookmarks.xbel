@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :326: for Floccus bookmark sync browser extension -->
+<!--- highestId :327: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -133,6 +133,12 @@
     <bookmark href="http://www.lifehacker.com.au/2016/02/make-your-own-conductive-greeting-card-that-lights-up-when-touched/" id="251">
       <title>Maker Conductive Greeting Card That Lights Up When Touched</title>
     </bookmark>
+    <folder id="327">
+      <title>Mailhash</title>
+      <bookmark href="https://github.com/jsvde/Mail-Hash" id="326">
+        <title>GitHub - jsvde/Mail-Hash: Browser Extension to add a random hash to your email address · GitHub</title>
+      </bookmark>
+    </folder>
   </folder>
 </folder>
 <folder id="2">
@@ -165,9 +171,6 @@
     </bookmark>
     <bookmark href="https://github.com/login" id="325">
       <title>Sign in to GitHub · GitHub</title>
-    </bookmark>
-    <bookmark href="https://github.com/jsvde/Mail-Hash" id="326">
-      <title>GitHub - jsvde/Mail-Hash: Browser Extension to add a random hash to your email address · GitHub</title>
     </bookmark>
   </folder>
   <folder id="280">
