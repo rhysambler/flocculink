@@ -535,6 +535,9 @@
     <bookmark href="https://agilemanifesto.org/" id="329">
       <title>Manifesto for Agile Software Development</title>
     </bookmark>
+    <bookmark href="https://microbit.org/" id="332">
+      <title>Micro:bit Educational Foundation | micro:bit</title>
+    </bookmark>
   </folder>
   <folder id="292">
     <title>Professional</title>
@@ -599,9 +602,6 @@
       </bookmark>
       <bookmark href="https://cdsoft.com.au/collections/bbc-micro-bit" id="331">
         <title>BBC micro:bit | Official Australian Educational Partner | CD-Soft</title>
-      </bookmark>
-      <bookmark href="https://microbit.org/" id="332">
-        <title>Micro:bit Educational Foundation | micro:bit</title>
       </bookmark>
     </folder>
   </folder>
