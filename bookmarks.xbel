@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :332: for Floccus bookmark sync browser extension -->
+<!--- highestId :333: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -537,6 +537,9 @@
     </bookmark>
     <bookmark href="https://microbit.org/" id="332">
       <title>Micro:bit Educational Foundation | micro:bit</title>
+    </bookmark>
+    <bookmark href="https://core-electronics.com.au/guides/micro-bit/microbit-soil-moisture-sensor/" id="333">
+      <title>Micro:bit Soil Moisture Sensor - Tutorial Australia</title>
     </bookmark>
   </folder>
   <folder id="292">
