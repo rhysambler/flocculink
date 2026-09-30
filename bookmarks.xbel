@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :330: for Floccus bookmark sync browser extension -->
+<!--- highestId :332: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -596,6 +596,12 @@
       </bookmark>
       <bookmark href="https://m365maps.com/files/Essential-8.htm" id="330">
         <title>Essential 8 | M365 Maps</title>
+      </bookmark>
+      <bookmark href="https://cdsoft.com.au/collections/bbc-micro-bit" id="331">
+        <title>BBC micro:bit | Official Australian Educational Partner | CD-Soft</title>
+      </bookmark>
+      <bookmark href="https://microbit.org/" id="332">
+        <title>Micro:bit Educational Foundation | micro:bit</title>
       </bookmark>
     </folder>
   </folder>
