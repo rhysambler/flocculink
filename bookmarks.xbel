@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :334: for Floccus bookmark sync browser extension -->
+<!--- highestId :335: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -543,6 +543,9 @@
     </bookmark>
     <bookmark href="https://192.168.72.200:3435/" id="334">
       <title>Unable to connect QuickConnect.</title>
+    </bookmark>
+    <bookmark href="https://192.168.72.200:3435/#/signin" id="335">
+      <title>Quadterrabite - Synology DiskStation</title>
     </bookmark>
   </folder>
   <folder id="292">
