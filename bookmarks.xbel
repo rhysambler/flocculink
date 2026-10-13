@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://rallly.co/en-GB" id="318">
-        <title>Rallly: Free Group Meeting Scheduling Tool</title>
-      </bookmark>
       <bookmark href="https://mealie.io/" id="313">
         <title>Mealie.io</title>
       </bookmark>
@@ -124,6 +121,9 @@
         </bookmark>
         <bookmark href="https://github.com/pglombardo/PasswordPusher" id="319">
           <title>GitHub - pglombardo/PasswordPusher: 🔐 Securely share sensitive information with automatic expiration &amp; deletion after a set number of views or duration. Track who, what and when with full audit logs. · GitHub</title>
+        </bookmark>
+        <bookmark href="https://rallly.co/en-GB" id="318">
+          <title>Rallly: Free Group Meeting Scheduling Tool</title>
         </bookmark>
       </folder>
       <folder id="341">
