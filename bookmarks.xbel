@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://snipeitapp.com/" id="306">
-        <title>Home - Snipe-IT Free open source IT asset management</title>
-      </bookmark>
       <bookmark href="https://vikunja.io/" id="316">
         <title>Vikunja: The task manager you actually own</title>
       </bookmark>
@@ -127,6 +124,9 @@
         </bookmark>
         <bookmark href="https://moodle.org/" id="307">
           <title>Home | Moodle.org</title>
+        </bookmark>
+        <bookmark href="https://snipeitapp.com/" id="306">
+          <title>Home - Snipe-IT Free open source IT asset management</title>
         </bookmark>
       </folder>
       <folder id="341">
