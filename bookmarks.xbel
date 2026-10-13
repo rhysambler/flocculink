@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://shlink.io/" id="315">
-        <title>Shlink — The URL shortener</title>
-      </bookmark>
       <bookmark href="https://github.com/janeczku/calibre-web" id="309">
         <title>GitHub - janeczku/calibre-web: :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database · GitHub</title>
       </bookmark>
@@ -136,6 +133,9 @@
         <title>PHP</title>
         <bookmark href="https://grocy.info/" id="311">
           <title>Grocy - ERP beyond your fridge</title>
+        </bookmark>
+        <bookmark href="https://shlink.io/" id="315">
+          <title>Shlink — The URL shortener</title>
         </bookmark>
       </folder>
     </folder>
