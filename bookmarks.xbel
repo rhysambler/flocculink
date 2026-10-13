@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://audiobookshelf.org/" id="301">
-        <title>Audiobookshelf</title>
-      </bookmark>
       <bookmark href="https://linkwarden.app/" id="122">
         <title>Linkwarden — Bookmarks, Evolved</title>
       </bookmark>
@@ -130,6 +127,9 @@
         <title>Docker</title>
         <bookmark href="https://jellyfin.org/" id="339">
           <title>The Free Software Media System | Jellyfin</title>
+        </bookmark>
+        <bookmark href="https://audiobookshelf.org/" id="301">
+          <title>Audiobookshelf</title>
         </bookmark>
       </folder>
       <folder id="341">
