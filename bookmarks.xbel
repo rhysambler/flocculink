@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :341: for Floccus bookmark sync browser extension -->
+<!--- highestId :342: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://vikunja.io/" id="316">
-        <title>Vikunja: The task manager you actually own</title>
-      </bookmark>
       <bookmark href="https://github.com/pglombardo/PasswordPusher" id="319">
         <title>GitHub - pglombardo/PasswordPusher: 🔐 Securely share sensitive information with automatic expiration &amp; deletion after a set number of views or duration. Track who, what and when with full audit logs. · GitHub</title>
       </bookmark>
@@ -136,6 +133,12 @@
         </bookmark>
         <bookmark href="https://shlink.io/" id="315">
           <title>Shlink — The URL shortener</title>
+        </bookmark>
+      </folder>
+      <folder id="342">
+        <title>Kubernetes</title>
+        <bookmark href="https://vikunja.io/" id="316">
+          <title>Vikunja: The task manager you actually own</title>
         </bookmark>
       </folder>
     </folder>
