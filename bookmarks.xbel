@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://mealie.io/" id="313">
-        <title>Mealie.io</title>
-      </bookmark>
       <bookmark href="https://docs.paperless-ngx.com/" id="314">
         <title>Home - Paperless-ngx</title>
       </bookmark>
@@ -124,6 +121,9 @@
         </bookmark>
         <bookmark href="https://rallly.co/en-GB" id="318">
           <title>Rallly: Free Group Meeting Scheduling Tool</title>
+        </bookmark>
+        <bookmark href="https://mealie.io/" id="313">
+          <title>Mealie.io</title>
         </bookmark>
       </folder>
       <folder id="341">
