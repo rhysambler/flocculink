@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://wekan.fi/" id="317">
-        <title>WeKan ® — Open-Source kanban</title>
-      </bookmark>
       <bookmark href="https://pi-hole.net/" id="324">
         <title>Pi-hole – Network-wide Ad Blocking</title>
       </bookmark>
@@ -124,6 +121,9 @@
         </bookmark>
         <bookmark href="https://docs.paperless-ngx.com/" id="314">
           <title>Home - Paperless-ngx</title>
+        </bookmark>
+        <bookmark href="https://wekan.fi/" id="317">
+          <title>WeKan ® — Open-Source kanban</title>
         </bookmark>
       </folder>
       <folder id="341">
