@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://freescout.net/" id="303">
-        <title>Best open source help desk: Zendesk &amp; Help Scout alternative</title>
-      </bookmark>
       <bookmark href="https://moodle.org/" id="307">
         <title>Home | Moodle.org</title>
       </bookmark>
@@ -127,6 +124,9 @@
         </bookmark>
         <bookmark href="https://homebox.software/en/" id="312">
           <title>HomeBox | Homebox</title>
+        </bookmark>
+        <bookmark href="https://freescout.net/" id="303">
+          <title>Best open source help desk: Zendesk &amp; Help Scout alternative</title>
         </bookmark>
       </folder>
       <folder id="341">
