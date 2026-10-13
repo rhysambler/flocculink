@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://www.monicahq.com/en/" id="305">
-        <title>Monica — the open-source personal CRM</title>
-      </bookmark>
       <bookmark href="https://shlink.io/" id="315">
         <title>Shlink — The URL shortener</title>
       </bookmark>
@@ -130,6 +127,9 @@
         </bookmark>
         <bookmark href="https://silverbullet.md/" id="310">
           <title>SilverBullet</title>
+        </bookmark>
+        <bookmark href="https://www.monicahq.com/en/" id="305">
+          <title>Monica — the open-source personal CRM</title>
         </bookmark>
       </folder>
       <folder id="341">
