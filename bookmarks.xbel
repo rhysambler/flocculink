@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://linkwarden.app/" id="122">
-        <title>Linkwarden — Bookmarks, Evolved</title>
-      </bookmark>
       <bookmark href="https://github.com/sissbruecker/linkding" id="304">
         <title>GitHub - sissbruecker/linkding: Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. · GitHub</title>
       </bookmark>
@@ -130,6 +127,9 @@
         </bookmark>
         <bookmark href="https://audiobookshelf.org/" id="301">
           <title>Audiobookshelf</title>
+        </bookmark>
+        <bookmark href="https://linkwarden.app/" id="122">
+          <title>Linkwarden — Bookmarks, Evolved</title>
         </bookmark>
       </folder>
       <folder id="341">
