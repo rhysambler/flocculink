@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :336: for Floccus bookmark sync browser extension -->
+<!--- highestId :337: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -180,6 +180,9 @@
     </bookmark>
     <bookmark href="https://www.larrypost.com.au/products/pentel-orenz-1-click-mechanical-pencil-0-2mm-yellow?_pos=5&amp;_sid=53534b286&amp;_ss=r" id="336">
       <title>Buy PENTEL Orenz 1-Click Mechanical Pencil - 0.2mm - Yellow | LarryPOST</title>
+    </bookmark>
+    <bookmark href="https://www.larrypost.com.au/" id="337">
+      <title>LarryPOST</title>
     </bookmark>
   </folder>
   <folder id="280">
