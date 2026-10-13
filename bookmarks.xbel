@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://pi-hole.net/" id="324">
-        <title>Pi-hole – Network-wide Ad Blocking</title>
-      </bookmark>
       <folder id="338">
         <title>Docker</title>
         <bookmark href="https://jellyfin.org/" id="339">
@@ -124,6 +121,9 @@
         </bookmark>
         <bookmark href="https://wekan.fi/" id="317">
           <title>WeKan ® — Open-Source kanban</title>
+        </bookmark>
+        <bookmark href="https://pi-hole.net/" id="324">
+          <title>Pi-hole – Network-wide Ad Blocking</title>
         </bookmark>
       </folder>
       <folder id="341">
