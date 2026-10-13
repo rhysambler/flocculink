@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :343: for Floccus bookmark sync browser extension -->
+<!--- highestId :344: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -124,6 +124,9 @@
         </bookmark>
         <bookmark href="https://pi-hole.net/" id="324">
           <title>Pi-hole – Network-wide Ad Blocking</title>
+        </bookmark>
+        <bookmark href="https://sonarr.tv/#home" id="344">
+          <title>Sonarr - Dive in</title>
         </bookmark>
       </folder>
       <folder id="341">
