@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :345: for Floccus bookmark sync browser extension -->
+<!--- highestId :346: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -130,6 +130,9 @@
         </bookmark>
         <bookmark href="https://radarr.video/" id="345">
           <title>Radarr</title>
+        </bookmark>
+        <bookmark href="https://github.com/TooGoooD1/jellyseerr" id="346">
+          <title>GitHub - TooGoooD1/jellyseerr: Open-source media request and discovery manager for Jellyfin, Plex, and Emby. · GitHub</title>
         </bookmark>
       </folder>
       <folder id="341">
