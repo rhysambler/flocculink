@@ -66,9 +66,6 @@
     </folder>
     <folder id="302">
       <title>Self host projects</title>
-      <bookmark href="https://grocy.info/" id="311">
-        <title>Grocy - ERP beyond your fridge</title>
-      </bookmark>
       <bookmark href="https://audiobookshelf.org/" id="301">
         <title>Audiobookshelf</title>
       </bookmark>
@@ -135,11 +132,11 @@
           <title>The Free Software Media System | Jellyfin</title>
         </bookmark>
       </folder>
-      <folder id="340">
-        <title>Web server</title>
-      </folder>
       <folder id="341">
         <title>PHP</title>
+        <bookmark href="https://grocy.info/" id="311">
+          <title>Grocy - ERP beyond your fridge</title>
+        </bookmark>
       </folder>
     </folder>
     <bookmark href="http://www.lifehacker.com.au/2016/02/make-your-own-conductive-greeting-card-that-lights-up-when-touched/" id="251">
