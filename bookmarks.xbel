@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :349: for Floccus bookmark sync browser extension -->
+<!--- highestId :379: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -159,6 +159,96 @@
       <bookmark href="https://github.com/jsvde/Mail-Hash" id="326">
         <title>GitHub - jsvde/Mail-Hash: Browser Extension to add a random hash to your email address · GitHub</title>
       </bookmark>
+    </folder>
+    <folder id="350">
+      <title>MedicAlert</title>
+      <folder id="351">
+        <title>New folder</title>
+        <bookmark href="chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/onetab.html" id="352">
+          <title>OneTab</title>
+        </bookmark>
+        <folder id="353">
+          <title>NUC</title>
+          <bookmark href="https://www.ebay.com.au/sch/i.html?_nkw=nuc&amp;_sacat=0&amp;_from=R40&amp;_fsrp=1&amp;rt=nc&amp;_sop=16&amp;LH_PrefLoc=1&amp;_udhi=200&amp;RAM%2520Size=8%2520GB&amp;_dcat=179" id="362">
+            <title>Nuc for sale | eBay</title>
+          </bookmark>
+          <bookmark href="https://www.ebay.com.au/b/Desktop-All-In-One-Computers/171957/bn_16571765?LH_PrefLoc=1&amp;LH_BIN=1&amp;_udhi=500&amp;mag=1" id="363">
+            <title>Desktop &amp; All-In-One Computers for Sale - eBay</title>
+          </bookmark>
+          <bookmark href="https://www.ebay.com.au/b/Desktop-All-In-One-PCs/179/bn_663899?RAM%2520Size=16%2520GB%7C24%2520GB%7C32%2520GB%7C64%2520GB&amp;Processor=Intel%2520Core%2520i3%252010th%2520Gen%252E%7CIntel%2520Core%2520i3%252D8100T%7CIntel%2520Core%2520i5%252D10210U%7CIntel%2520Core%2520i5%252D10400T%7CIntel%2520Core%2520i5%252D10500T%7CIntel%2520Core%2520i5%252010th%2520Gen%252E%7CIntel%2520Core%2520i5%252D1135G7%7CIntel%2520Core%2520i5%252011th%2520Gen%252E%7CIntel%2520Core%2520i5%252D12400T%7CIntel%2520Core%2520i5%252D12500T%7CIntel%2520Core%2520i5%252012th%2520Gen%252E%7CIntel%2520Core%2520i5%252013th%2520Gen%252E%7CIntel%2520Core%2520i5%252014th%2520Gen%252E%7CIntel%2520Core%2520i5%25208500%7CIntel%2520Core%2520i5%252D8500%7CIntel%2520Core%2520i5%25208%2520Gen%252E%7CIntel%2520Core%2520i5%25208th%2520Gen%252E%7CIntel%2520Core%2520i5%252D9500T%7CIntel%2520Core%2520i5%25209%2520Gen%252E%7CIntel%2520Core%2520i5%25209th%2520Gen%7CIntel%2520Core%2520i5%25209th%2520Gen%252E%7CIntel%2520Core%2520i7%252D10700%7CIntel%2520Core%2520i7%252D10700T%7CIntel%2520Core%2520i7%252010th%2520Gen%252E%7CIntel%2520Core%2520i7%252D1165G7%7CIntel%2520Core%2520i7%252011th%2520Gen%252E%7CIntel%2520Core%2520i7%252D12700%7CIntel%2520Core%2520i7%252012th%2520Gen%252E%7CIntel%2520Core%2520i7%252D8700%7CIntel%2520Core%2520i7%25208th%2520Gen%252E%7CIntel%2520Core%2520i7%252D9700T%7CIntel%2520Core%2520i7%25209th%2520Gen%252E%7CIntel%2520Core%2520i5%252011%2520Gen&amp;Form%2520Factor=%2521&amp;Type=Desktop&amp;_udhi=1080&amp;LH_BIN=1&amp;LH_PrefLoc=1&amp;_sop=15&amp;rt=nc&amp;mag=1" id="364">
+            <title>Desktop &amp; All-In-One PCs for Sale - eBay</title>
+          </bookmark>
+          <bookmark href="https://www.ebay.com.au/itm/287641498619?itmmeta=01M5A01W3MZHPXDZ7TA8PHH7SS&amp;hash=item42f8c4f3fb:g:3zQAAeSwZ6lqtonO&amp;itmprp=enc%3AAQALAAAA4IdkaaggAE19TSc1mmmEqjlpa0d0e58fHnDoLa4OItHl10zrkjijRRsF41ewmhfHz7rlUBLo3qfqdIS%2Boe7s5ymejq34N%2FFySJIhXL%2BH2DVj%2BiOJzBah7%2BmtdBTVuYYvI%2BhaOkUnj9ZV913wGJMXkYXXS7pgNjYfQcscQrGS%2BnoQPAAEIehZ5kJbKYWdCUKSJkgtJtnLsjCqzuf33HtY3w8CUsIkuAhlVdD0xAZZbgdDcsDJIbZXbquzdslUo6uqB%2BNcSROvNcgX9j%2BusYxPwZ4xt03rG7a6rjY7sFxFYsif%7Ctkp%3ABk9SR_7Bh8CqaA" id="365">
+            <title>Brand New Intel 8th Gen Core i5 16GB RAM 256 GB SSD WiFi NUC Mini PC Win11 | eBay Australia</title>
+          </bookmark>
+          <bookmark href="https://www.ebay.com.au/itm/197961066453?itmmeta=01M5A01W3SQWRGZ8RWP974FVZF&amp;hash=item2e176627d5:g:0T0AAeSw5-ZpRS6U&amp;itmprp=enc%3AAQALAAAA4IdkaaggAE19TSc1mmmEqjneiNQl6W8bpg9KxJRYqfueJOfV9gvAAqcVIGZSvjtPfw6Zg4kXJQpqSHDMHJ5Kpdl6qvzgxvv2YW5Kjnot9etYcsY%2FqgKWiwD%2BUhZ4PFKzGAG%2BG0ZDgj0%2Bk5TTEuRYYakS6gGKlvz3%2FBhuQrwtmJZ8CItGPbYxJhcX2QN2sG2yBaFuAN5IDt3jzABu2t8%2FEQ3VACCLCFz5ItiMBHm51F1EEJe9UULbcomSpA4vQ%2F6kThmqY%2B9HTgWyEoua9UHeTeSbJiZe9YRsSh0%2FnBOUZk4%2B%7Ctkp%3ABk9SR4LCh8CqaA" id="366">
+            <title>Fujitsu Esprimo Q556/2 i5-7400T 16GB RAM 256GB SSD Win 11 WiFi | eBay Australia</title>
+          </bookmark>
+          <bookmark href="https://www.ebay.com.au/itm/800785652460?itmmeta=01M5A01W3S6F17CQF3ZVCZRXHV&amp;hash=itemba728b5aec:g:Z-YAAeSwe~pqzHW~&amp;itmprp=enc%3AAQALAAAA4IdkaaggAE19TSc1mmmEqjkv3F1c4qz0qrCEZMZVZ%2F7d0QlEUN8I3aSrZ4O72KqETKsTvGEcQx2phNVHw2%2B%2B0sb%2FYkAdA8Z%2FwB%2BAjYtIm969ppCNetZs04BUxXhd3Tzhzulp8zRM7%2FZP%2BRaens5gRERYa6U1zweWDmjwQoF6D2UiN8gUrFh%2BwMY4aXZJPL6B3MNo4aFMoYE7EctkTDulrjAKOY3lzAKHi%2FXp3z%2Fe0nf%2B2D4%2FS1nSv2Jg%2BzEbwzoAyfW%2FJOPsp0JCt3pQE2P9PG2GlosqDwBp8SR565A4HfcH%7Ctkp%3ABk9SR4LCh8CqaA" id="367">
+            <title>Dell OptiPlex 7050 i7-6700T 16GB RAM 256GB SSD A Grade | eBay Australia</title>
+          </bookmark>
+          <bookmark href="https://www.ebay.com.au/itm/840015989264?_skw=nuc&amp;itmmeta=01M59Z5V35DC9KHPJYK1NW60BR&amp;hash=itemc394daca10:g:6qAAAeSwo-RqzaAH&amp;itmprp=enc%3AAQALAAAAwCHNgUiiE%2FjQhlDTaMiAde9QutgAON7RRuGaT9eS2smK2gqARbDv0da5MumkrTdycRWUqHyV%2FOog4SbVcjlw5h8tZB23FuB5Y2IILMSsOB7jMDPVZ9jmoD0uuFEtfnwFiaxI0qUS6DNT6o4MJvYYFUpDb4uBCCeE4bgg60SE4EnRceeZQ2s3ZUYRB%2BDCXgCC4d12%2F2YUWCFWNlH4XwDS36yv%2BaKlFVywAdDMOYjbqo%2FWNzMKGNPPQSTZot8j9rFmng%3D%3D%7Ctkp%3ABk9SR-Kxl7-qaA" id="368">
+            <title>Intel NUC NUC5I7RY MINI PC I7-5557U 8GB 256GB SSD WIFI HDMI W10 | eBay Australia</title>
+          </bookmark>
+          <bookmark href="https://signin.ebay.com.au/ws/eBayISAPI.dll?SignIn&amp;ru=https%3A%2F%2Fwww.ebay.com.au%2Fitm%2F820223088670" id="369">
+            <title>signin.ebay.com.au</title>
+          </bookmark>
+          <bookmark href="https://search.brave.com/search?q=home+server+&amp;source=web" id="370">
+            <title>home server - Brave Search</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://www.medicalert.org.au/features-and-benefits" id="354">
+          <title>Benefits of medical ID jewellery – Why choose MedicAlert</title>
+        </bookmark>
+        <bookmark href="https://www.medicalert.org.au/pricing" id="355">
+          <title>MedicAlert service costs – What you pay for explained</title>
+        </bookmark>
+        <bookmark href="https://www.mediband.com/au/" id="356">
+          <title>Mediband | Medical ID Solutions Since 2004</title>
+        </bookmark>
+        <bookmark href="https://www.ebay.com.au/itm/256830619381" id="357">
+          <title>Custom Engraved Silicone Wristbands 19MM Personalized Rubber Bracelets for Event | eBay Australia</title>
+        </bookmark>
+        <bookmark href="https://www.handband.com.au/au/dual-layer-laser-wristband-dual-layer-wristband/" id="358">
+          <title>Custom Dual Layer Laser Wristbands - Get your Summer on with Handband</title>
+        </bookmark>
+        <bookmark href="https://www.handband.com.au/au/swirl-marbleized-wristband-swirl-marbelized-wristbands/" id="359">
+          <title>Swirl Marbleized Wristbands – Custom Silicone Bands</title>
+        </bookmark>
+        <bookmark href="https://www.handband.com.au/au/multi-colour-wristband-4-colours-multi-colour-wristband-4-colours/" id="360">
+          <title>Multi Colour 4 Stripe Wristbands | Custom Silicone Bands</title>
+        </bookmark>
+        <bookmark href="https://www.handband.com.au/au/custom-classic-wristband-from-7-custom-debossed-wristband/" id="361">
+          <title>Custom Silicone Wristbands &amp; Rubber Wristbands — Debossed</title>
+        </bookmark>
+        <bookmark href="https://search.brave.com/search?q=Silicone+Wristband+Dual+Layer&amp;source=desktop" id="371">
+          <title>Silicone Wristband Dual Layer - Brave Search</title>
+        </bookmark>
+        <bookmark href="https://www.pixelburn.com.au/collections/personalised-medical-safety-id-bracelets" id="372">
+          <title>Personalised Medical &amp; Safety ID Bracelets | Pixel Burn</title>
+        </bookmark>
+        <bookmark href="https://projectprotect.com.au/search?q=g6pd&amp;type=product" id="373">
+          <title>Search: 0 results found for &quot;g6pd&quot; – Project Protect</title>
+        </bookmark>
+        <bookmark href="https://projectprotect.com.au/collections/silicone-wristbands/products/custom-medical-alert-silicone-wristband" id="374">
+          <title>Custom Personalised Medical Alert - Silicone Wristband – Project Protect</title>
+        </bookmark>
+        <bookmark href="https://search.brave.com/search?q=Emergency+ID+Australia&amp;source=desktop" id="375">
+          <title>Emergency ID Australia - Brave Search</title>
+        </bookmark>
+        <bookmark href="https://www.emergencyid.com.au/" id="376">
+          <title>Emergency ID Australia Medical Alert Bracelets &amp; Necklaces | Medical Bags | My Id</title>
+        </bookmark>
+        <bookmark href="https://www.emergencyid.com.au/product-category/bracelets/silicone-sport-bracelets/page/2/?orderby=price" id="377">
+          <title>Silicone &amp; Rubber Medical ID Alerts | Emergency ID Australia</title>
+        </bookmark>
+        <bookmark href="https://www.emergencyid.com.au/shop/bracelets/sliver-bracelets/watch-fitness-band-replacement-silicone-band-only-no-medallion/" id="378">
+          <title>Watch &amp; Fitness Band large replacement Silicon band - Emergency ID Australia</title>
+        </bookmark>
+        <bookmark href="https://www.myqrmed.com.au/" id="379">
+          <title>MyQRMed — Paramedic-designed emergency medical IDs</title>
+        </bookmark>
+      </folder>
     </folder>
   </folder>
 </folder>
