@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :347: for Floccus bookmark sync browser extension -->
+<!--- highestId :349: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -576,6 +576,12 @@
     </bookmark>
     <bookmark href="https://github.com/lachlanallison/keepsync" id="347">
       <title>GitHub - lachlanallison/keepsync · GitHub</title>
+    </bookmark>
+    <bookmark href="https://qrdoc.io/?lc=5t2qT6ILT82n6P8Ia2zSW#/online" id="348">
+      <title>QRdoc - Document lifecycle management by PaperCut</title>
+    </bookmark>
+    <bookmark href="https://scientistapparel.co/collections/classic-t-shirts" id="349">
+      <title>Classic T-Shirts – Scientist Apparel</title>
     </bookmark>
   </folder>
   <folder id="292">
